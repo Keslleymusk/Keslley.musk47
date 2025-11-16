@@ -1,38 +1,40 @@
-<channels>
-
 <channel>
-    <name>[COLOR cyan][B]SEJA BEM-VINDO AO ALPHA TORRENT[/B][/COLOR]</name>
-    <thumbnail>https://i.imgur.com/vx9G5lB.png</thumbnail>
-    <externallink>https://</externallink>
-    <fanart>https://i.imgur.com/ZT8q7z5.jpeg</fanart>
+<name>
+[COLOR yellow]### [/COLOR]
+[COLOR yellow]SEJAM BEM VINDOS AO [/COLOR]
+[COLOR white]ALPHA [/COLOR]
+[COLOR yellow]TORRENT [/COLOR]
+[COLOR yellow]###[/COLOR]
+</name>
+<thumbnail>https://i.imgur.com/vx9G5lB.png</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/ZT8q7z5.jpeg</fanart>
 </channel>
 
 <channel>
-    <name>[COLOR yellow][B]FILMES[/B][/COLOR]</name>
-    <thumbnail>https://i.imgur.com/2bGQqTE.jpeg</thumbnail>
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/filmes</externallink>
-    <fanart>https://i.imgur.com/ELvSti7.jpeg</fanart>
+<name>[COLOR white][B]FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/2bGQqTE.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/filmes</externallink>
+<fanart>https://i.imgur.com/ELvSti7.jpeg</fanart>
 </channel>
 
 <channel>
-    <name>[COLOR yellow][B]SÉRIES[/B][/COLOR]</name>
-    <thumbnail>https://i.imgur.com/vT3YVJJ.jpeg</thumbnail>
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/series</externallink>
-    <fanart>https://i.imgur.com/kz8yy6q.jpeg</fanart>
+<name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/vT3YVJJ.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/series</externallink>
+<fanart>https://i.imgur.com/kz8yy6q.jpeg</fanart>
 </channel>
 
 <channel>
-    <name>[COLOR yellow][B]LANÇAMENTOS 2024[/B][/COLOR]</name>
-    <thumbnail>https://i.imgur.com/5l3a1Uw.jpeg</thumbnail>
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/lancamentos2024</externallink>
-    <fanart>https://i.imgur.com/Yo1IYq1.jpeg</fanart>
+<name>[COLOR white][B]ANIMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/0a50kxr.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/animes</externallink>
+<fanart>https://i.imgur.com/0a50kxr.jpeg</fanart>
 </channel>
 
 <channel>
-    <name>[COLOR yellow][B]LANÇAMENTOS 2025[/B][/COLOR]</name>
-    <thumbnail>https://i.imgur.com/3ZYK8JB.jpeg</thumbnail>
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/lancamentos2025</externallink>
-    <fanart>https://i.imgur.com/BVpC4eQ.jpeg</fanart>
+<name>[COLOR white][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/OfMIZrD.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/desenhos</externallink>
+<fanart>https://i.imgur.com/OfMIZrD.jpeg</fanart>
 </channel>
-
-</channels>
