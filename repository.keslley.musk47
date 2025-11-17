@@ -1,1 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 
+    id="repository.keslley.musk47" 
+    name="[COLOR gold]Repositório Keslley.musk47 [COLOR green]OFICIAL[/COLOR]" 
+    version="1.0.0" 
+    provider-name="Keslley">
+    
+    <requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+    </requires>
 
+    <extension point="xbmc.addon.repository" name="[COLOR white]Keslley.musk47 [COLOR gold]Repositório[/COLOR]">
+        <dir>
+            <info>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/</datadir>
+        </dir>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositório oficial Keslley.musk47</summary>
+        <description>Addon oficial mantido por Keslley. Atualizações automáticas do plugin Alphatorrent.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+
+</addon>
