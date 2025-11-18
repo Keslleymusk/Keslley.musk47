@@ -1,1 +1,6 @@
-
+Keslley.musk47/
+   addons.xml              ← catálogo do repositório (esse código que você já corrigiu)
+   addons.xml.md5          ← checksum do catálogo
+   plugin.video.alphatorrent/
+       addon.xml           ← metadados do addon (esse é outro XML, diferente do da raiz)
+       plugin.video.alphatorrent-1.0.0+matrix.1.zip  ← pacote zipado do addon
