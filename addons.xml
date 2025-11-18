@@ -3,11 +3,11 @@
     <addon 
         id="plugin.video.Alphatorrent"
         name="Alpha Torrent"
-        version="1.0.0+matrix.1">
-                  provider-name="Keslley.musk47">
+        version="1.0.0+matrix.1"
+        provider-name="Keslley.musk47">
 
         <extension point="xbmc.python.pluginsource" library="default.py" />
-        
+
         <extension point="xbmc.addon.metadata">
             <summary>Alpha Torrent Oficial</summary>
             <description>Addon oficial criado por Keslley.musk47</description>
