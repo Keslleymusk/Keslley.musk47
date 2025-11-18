@@ -3,8 +3,8 @@
     <addon 
         id="plugin.video.Alphatorrent"
         name="Alpha Torrent"
-        version="1.0.0"
-        provider-name="Keslley">
+        version="1.0.0+matrix.1">
+        provider-name="Keslley.musk47">
 
         <extension point="xbmc.python.pluginsource" library="default.py" />
         
