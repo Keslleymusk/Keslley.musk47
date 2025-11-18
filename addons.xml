@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-
-    <!-- REPOSITÓRIO -->
     <addon
         id="repository.keslley.musk47"
         name="Repositório Keslley.musk47"
@@ -12,7 +10,7 @@
             <dir>
                 <info>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
                 <checksum>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml.md5</checksum>
-                <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/</datadir>
+                <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/plugin.video.alphatorrent/</datadir>
             </dir>
         </extension>
 
@@ -23,26 +21,4 @@
         </extension>
 
     </addon>
-
-    <!-- ADDON ALPHATORRENT -->
-    <addon 
-        id="plugin.video.alphatorrent"
-        name="alpha Torrent"
-        version="1.0.0+matrix.1"
-        provider-name="Keslley.musk47">
-
-        <extension point="xbmc.python.pluginsource" library="default.py" />
-
-        <extension point="xbmc.addon.metadata">
-            <summary>Alpha Torrent Oficial</summary>
-            <description>Addon oficial criado por Keslley.musk47</description>
-            <platform>all</platform>
-            <assets>
-                <icon>icon.png</icon>
-                <fanart>fanart.jpg</fanart>
-            </assets>
-        </extension>
-
-    </addon>
-
 </addons>
