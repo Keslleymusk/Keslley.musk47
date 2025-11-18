@@ -10,7 +10,7 @@
         
         <extension point="xbmc.addon.metadata">
             <summary>Alpha Torrent Oficial</summary>
-            <description>Addon oficial criado por Keslley.</description>
+            <description>Addon oficial criado por Keslley.musk47</description>
             <platform>all</platform>
             <assets>
                 <icon>icon.png</icon>
