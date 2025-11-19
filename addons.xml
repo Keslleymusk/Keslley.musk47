@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 
-    <!-- Repositório -->
+    <!-- ================================================================ -->
+    <!-- Repositório Oficial Keslley Musk47 -->
+    <!-- ================================================================ -->
+
     <addon id="repository.keslley.musk47"
            name="Repositório Keslley Musk47"
            version="1.0.0"
@@ -22,20 +25,39 @@
     </addon>
 
 
-    <!-- Add-on AlphaTorrent listado no repositório -->
+    <!-- ================================================================ -->
+    <!-- Add-on Alpha Torrent listado no repositório -->
+    <!-- ================================================================ -->
+
     <addon id="plugin.video.alphatorrent"
-           name="Alpha Torrent"
+           name="[B][COLOR white]ALPHA[/COLOR] [COLOR lime]TORRENT[/COLOR][/B]"
            version="1.0.0+matrix.1"
-           provider-name="keslley.musk47">
+           provider-name="[B][COLOR white]keslley.musk47[/COLOR][/B]">
 
         <extension point="xbmc.python.pluginsource" library="default.py">
             <provides>video</provides>
         </extension>
 
         <extension point="xbmc.addon.metadata">
-            <summary lang="pt_BR">Addon para streaming de torrents.</summary>
-            <description lang="pt_BR">Descrição completa do addon AlphaTorrent.</description>
+
+            <summary lang="pt_BR">[B][COLOR white]ALPHA TORRENT — Conteúdo direto, rápido e funcional.[/COLOR][/B]</summary>
+
+            <description lang="pt_BR">
+                [COLOR white][B]Addon completo de filmes e séries via torrent, integrado ao Elementum.[/B][/COLOR]
+            </description>
+
             <platform>all</platform>
+
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+                <screenshot>resources/screenshots/home.png</screenshot>
+                <screenshot>resources/screenshots/movies.png</screenshot>
+                <screenshot>resources/screenshots/series.png</screenshot>
+            </assets>
+
+            <news>Primeira versão pública do Alpha Torrent.</news>
+
         </extension>
 
     </addon>
