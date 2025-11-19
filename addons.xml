@@ -6,9 +6,9 @@
     <!-- ================================================================ -->
 
     <addon id="repository.keslley.musk47"
-           name="Repositório Keslley Musk47"
+           name="Repositório Keslley.Musk47 OFICIAL"
            version="1.0.0"
-           provider-name="Keslley Musk">
+           provider-name="Keslley.Musk47">
 
         <extension point="xbmc.addon.repository">
             <info compressed="false">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
