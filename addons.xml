@@ -17,7 +17,7 @@
         </extension>
 
         <extension point="xbmc.addon.metadata">
-            <summary>Repositório oficial do addon AlphaTorrent</summary>
+            <summary>Repositório oficial de addons diversos.</summary>
             <description>Atualizações automáticas para o addon AlphaTorrent.</description>
             <platform>all</platform>
         </extension>
