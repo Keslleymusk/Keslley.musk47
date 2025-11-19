@@ -39,9 +39,13 @@
         </extension>
 
         <extension point="xbmc.addon.metadata">
+
             <summary lang="pt_BR">[B][COLOR white]ALPHA TORRENT — Conteúdo direto, rápido e funcional.[/COLOR][/B]</summary>
+
             <description lang="pt_BR">[COLOR white][B]Todo conteúdo necessário em um só lugar.[/B][/COLOR]</description>
+
             <platform>all</platform>
+
             <assets>
                 <icon>icon.png</icon>
                 <fanart>fanart.jpg</fanart>
@@ -49,7 +53,9 @@
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
             </assets>
+
             <news>FORCE_UPDATE_KESLLEY_2025_001</news>
+
         </extension>
 
     </addon>
@@ -64,19 +70,34 @@
            version="4.0.0+matrix.1"
            provider-name="Equipe KODISH">
 
-        <extension point="xbmc.python.pluginsource">
+        <requires>
+            <import addon="xbmc.python" version="3.0.0"/>
+            <import addon="script.module.requests"/>
+            <import addon="script.module.simplejson"/>
+            <import addon="script.module.kodi-six"/>
+        </requires>
+
+        <extension point="xbmc.python.pluginsource" library="default.py">
             <provides>video</provides>
         </extension>
 
         <extension point="xbmc.addon.metadata">
-            <summary lang="pt_BR">Add-on BXL — conteúdo organizado e funcional.</summary>
-            <description lang="pt_BR">Versão listada no repositório Keslley Musk47.</description>
+            <summary lang="en">
+                TODO CONTEÚDO DESSE ADDON FOI EXTRAÍDO DO GOOGLE (DOMÍNIO PÚBLICO). NÃO ME RESPONSABILIZO PELO USO DE TERCEIROS.
+            </summary>
+            <description lang="en">descricao</description>
+
             <platform>all</platform>
+
             <assets>
                 <icon>icon.png</icon>
                 <fanart>fanart.jpg</fanart>
+                <screenshot>resources/screenshots/home.png</screenshot>
+                <screenshot>resources/screenshots/movies.png</screenshot>
+                <screenshot>resources/screenshots/series.png</screenshot>
             </assets>
-            <news>FORCE_UPDATE_BXL_2025_001</news>
+
+            <news>news</news>
         </extension>
 
     </addon>
