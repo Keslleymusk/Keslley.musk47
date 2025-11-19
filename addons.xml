@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+
+    <!-- Repositório -->
     <addon id="repository.keslley.musk47"
            name="Repositório Keslley Musk47"
            version="1.0.0"
@@ -18,4 +20,24 @@
         </extension>
 
     </addon>
+
+
+    <!-- Add-on AlphaTorrent listado no repositório -->
+    <addon id="plugin.video.alphatorrent"
+           name="Alpha Torrent"
+           version="1.0.0+matrix.1"
+           provider-name="keslley.musk47">
+
+        <extension point="xbmc.python.pluginsource" library="default.py">
+            <provides>video</provides>
+        </extension>
+
+        <extension point="xbmc.addon.metadata">
+            <summary lang="pt_BR">Addon para streaming de torrents.</summary>
+            <description lang="pt_BR">Descrição completa do addon AlphaTorrent.</description>
+            <platform>all</platform>
+        </extension>
+
+    </addon>
+
 </addons>
