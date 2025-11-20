@@ -49,9 +49,10 @@
             <assets>
                 <assets>
                     <assets>
-                <icon>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/icon.png</icon>        
-                <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/fanart.jpg</fanart>
-            </assets>       
+                 <assets>
+    <icon>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/icon.png</icon>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/fanart.jpg</fanart>
+</assets>      
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
