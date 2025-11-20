@@ -6,7 +6,7 @@
     <!-- ================================================================ -->
 
     <addon id="repository.keslley.musk47"
-           name="[COLOR gold]Repositório keslley.musk47[COLOR green] OFICIAL[/COLOR]"
+           name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
            version="1.0.0"
            provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
@@ -18,7 +18,7 @@
 
         <extension point="xbmc.addon.metadata">
             <summary>Repositório oficial de addons diversos.</summary>
-            <description>Atualizações automáticas para o addon AlphaTorrent.</description>
+            <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
             <platform>all</platform>
         </extension>
 
