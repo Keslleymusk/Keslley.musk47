@@ -39,27 +39,20 @@
         </extension>
 
         <extension point="xbmc.addon.metadata">
-
             <summary lang="pt_BR">[B][COLOR white]ALPHA TORRENT — Conteúdo direto, rápido e funcional.[/COLOR][/B]</summary>
-
             <description lang="pt_BR">[COLOR white][B]Todo conteúdo necessário em um só lugar.[/B][/COLOR]</description>
 
             <platform>all</platform>
 
             <assets>
-                <assets>
-                    <assets>
-                 <assets>
-    <icon>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/icon.png</icon>
-    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/fanart.jpg</fanart>
-</assets>      
+                <icon>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/icon.png</icon>
+                <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/images/alphatorrent/fanart.jpg</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
             </assets>
 
             <news>FORCE_UPDATE_KESLLEY_2025_001</news>
-
         </extension>
 
     </addon>
@@ -86,9 +79,8 @@
         </extension>
 
         <extension point="xbmc.addon.metadata">
-            <summary lang="en">
-                TODO CONTEÚDO DESSE ADDON FOI EXTRAÍDO DO GOOGLE (DOMÍNIO PÚBLICO). NÃO ME RESPONSABILIZO PELO USO DE TERCEIROS.
-            </summary>
+
+            <summary lang="en">TODO CONTEÚDO DESSE ADDON FOI EXTRAÍDO DO GOOGLE (DOMÍNIO PÚBLICO). NÃO ME RESPONSABILIZO PELO USO DE TERCEIROS.</summary>
             <description lang="en">todo conteúdo necessário em um só lugar.</description>
 
             <platform>all</platform>
