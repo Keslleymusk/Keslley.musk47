@@ -94,8 +94,8 @@
             <platform>all</platform>
 
             <assets>
-                <icon>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/zips/plugin.video.addon.bxl/icon.png</icon>
-                <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/zips/plugin.video.addon.bxl/fanart.jpg</fanart>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
