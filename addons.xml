@@ -7,7 +7,7 @@
 
     <addon id="repository.keslley.musk47"
            name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
-           version="1.0.1"
+           version="1.0.0"
            provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
         <extension point="xbmc.addon.repository">
@@ -63,7 +63,7 @@
 
     <addon id="plugin.video.alphatorrent"
            name="[B][COLOR white]ALPHA[/COLOR] [COLOR lime]TORRENT[/COLOR][/B]"
-           version="1.0.3+matrix.1"
+           version="1.0.0+matrix.1"
            provider-name="[B][COLOR gold]@keslley.musk47[/COLOR][/B]">
 
         <extension point="xbmc.python.pluginsource" library="default.py">
