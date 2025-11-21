@@ -29,9 +29,10 @@
     <!-- ================================================================ -->
     
     <addon id="repository.elementumorg"
-           name="[COLOR gray]Elementum[\COLOR]" 
-           provider-name="[COLOR white]elgatito[/COLOR]">
+           name="[COLOR gray]Elementum[\COLOR]"
            version="0.0.7"
+           provider-name="[COLOR white]elgatito[/COLOR]">
+           
     <extension point="xbmc.addon.repository">
         <dir>
             <info>http://127.0.0.1:65223/addons.xml</info>
