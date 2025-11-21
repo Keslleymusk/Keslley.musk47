@@ -30,7 +30,7 @@
     
     <addon id="repository.elementumorg"
            name="[COLOR grey]ElementumOrg repository[/COLOR]"
-           version="1.0.0"
+           version="0.0.7"
            provider-name="[COLOR white]elgatito[/COLOR]">
            
     <extension point="xbmc.addon.repository">
