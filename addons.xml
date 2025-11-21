@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
 
     <!-- ================================================================ -->
@@ -39,6 +39,7 @@
         </extension>
 
         <extension point="xbmc.addon.metadata">
+
             <summary lang="pt_BR">[B][COLOR white]ALPHA TORRENT — Conteúdo direto, rápido e funcional.[/COLOR][/B]</summary>
             <description lang="pt_BR">[COLOR white][B]Todo conteúdo necessário em um só lugar.[/B][/COLOR]</description>
 
@@ -97,4 +98,4 @@
 
     </addon>
 
-    
+</addons>
