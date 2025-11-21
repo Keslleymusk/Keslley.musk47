@@ -29,7 +29,7 @@
     <!-- ================================================================ -->
     
     <addon id="repository.elementumorg"
-           name="[COLOR grey]Elementum[\COLOR]"
+           name="[COLOR grey]Elementum[/COLOR]"
            version="0.0.7"
            provider-name="[COLOR white]elgatito[/COLOR]">
            
