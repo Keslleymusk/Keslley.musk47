@@ -79,8 +79,8 @@
             <platform>all</platform>
 
             <assets>
-                <icon>https://i.imgur.com/jefT4B6.jpeg</icon>
-                <fanart>https://i.imgur.com/ybiMhKV.jpeg</fanart>
+                <icon>https://i.imgur.com/jefT4B6.jpg</icon>
+                <fanart>https://i.imgur.com/ybiMhKV.jpg</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
