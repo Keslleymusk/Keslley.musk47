@@ -5,7 +5,7 @@
         <name>[COLOR yellow]### [/COLOR][COLOR yellow]SEJAM BEM VINDOS AO [/COLOR][COLOR white]ALPHA [/COLOR][COLOR yellow]TORRENT [/COLOR][COLOR yellow]###[/COLOR]</name>
         <thumbnail>https://i.imgur.com/vx9G5lB.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/README.md</externallink>
-        <fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>     <icon>https://i.imgur.com/jefT4B6.jpg</icon>    
+        <fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>   
     </channel>
 
     <channel>
