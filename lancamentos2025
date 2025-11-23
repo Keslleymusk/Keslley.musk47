@@ -1,1 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
 
+    <channel>
+        <name>[COLOR blue][B]AÇÃO[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]TERROR[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]SUSPENSE[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]COMÉDIA[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]FICÇÃO[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]DRAMA[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]ROMANCE[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]FANTASIA[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]AVENTURA[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]FAROESTE[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]NACIONAL[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A02/tag.I.A02.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+</channels>
