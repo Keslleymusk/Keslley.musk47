@@ -37,6 +37,20 @@
     </channel>
 
     <channel>
+        <name>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
+        <name>[COLOR blue][B]DC COMICS[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink></externallink>
+        <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
+    </channel>
+
+    <channel>
         <name>[COLOR blue][B]DRAMA[/B][/COLOR]</name>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink></externallink>
