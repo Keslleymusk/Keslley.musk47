@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channels>
+<items>
 
-    <channel>
-        <name>[COLOR blue][B]AÇÃO[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/acao2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]TERROR[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/terror2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]SUSPENSE[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/suspense2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]COMÉDIA[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/comedia2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]FICÇÃO[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/ficcao2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/marvel2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]DC COMICS[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/dc2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]DRAMA[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/drama2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]ROMANCE[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/romance2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]FANTASIA[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/fantasia2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]AVENTURA[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/aventura2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]FAROESTE[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/faroeste2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-    <channel>
-        <name>[COLOR blue][B]NACIONAL[/B][/COLOR]</name>
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao/nacional2025</externallink>
         <fanart>https://archive.org/download/hashira02/hashira02.jpg</fanart>
-    </channel>
+    </item>
 
-</channels>
+</items>
