@@ -1,95 +1,95 @@
-<?xml version="1.0" encoding="UTF-8"?>  
-<channels>  
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
-<channel>  
-    <name>[COLOR blue][B]AÇÃO[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/acao2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]TERROR[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/terror2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]SUSPENSE[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/suspense2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]COMÉDIA[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/comedia2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]FICÇÃO[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/ficcao2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/marvel2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]DC COMICS[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/dc2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]DRAMA[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/drama2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]ROMANCE[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/romance2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]FANTASIA[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/fantasia2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]AVENTURA[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/aventura2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]FAROESTE[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/faroeste2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-<channel>  
-    <name>[COLOR blue][B]NACIONAL[/B][/COLOR]</name>  
-    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink></externallink>  
-    <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>  
-</channel>  
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/nacional2026</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
 
-</channels>
+</items>
