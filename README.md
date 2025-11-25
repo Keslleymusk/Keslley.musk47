@@ -8,6 +8,15 @@
         <fanart>https://archive.org/download/hashira01/hashira01.jpg</fanart>   
     </channel>
 
+    <!-- BLOCO NOVO INSERIDO -->
+    <channel>
+        <name>[COLOR red][B]INFORMAÇÕES DO DESENVOLVEDOR[/B][/COLOR]</name>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/desenvolvedor</externallink>
+        <fanart>https://archive.org/download/hashira01/hashira01.jpg</fanart>
+    </channel>
+    <!-- FIM DO BLOCO NOVO -->
+
     <channel>
         <name>[COLOR white][B]FILMES[/B][/COLOR]</name>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
