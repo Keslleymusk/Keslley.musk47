@@ -2,14 +2,14 @@
 <items>
 
     <item>
-        <title>[COLOR blue][B]INSTAGRAM DO DESENVOLVEDOR: [/COLOR][COLOR Gold]@keslley.musk47[/B][/COLOR]</title>
+        <title>[COLOR blue][B]INSTAGRAM DO DESENVOLVEDOR: [/B][/COLOR][COLOR gold][B]@keslley.musk47[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink></externallink>
         <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]INSTAGRAM DO PROJETO: [/COLOR][COLOR gold]@alphatorrent[/B][/COLOR]</title>
+        <title>[COLOR blue][B]INSTAGRAM DO PROJETO: [/B][/COLOR][COLOR gold][B]@alphatorrent[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink></externallink>
         <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
@@ -21,3 +21,5 @@
         <externallink></externallink>
         <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
+
+</items>
