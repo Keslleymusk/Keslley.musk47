@@ -22,6 +22,11 @@
         <summary>Repositório oficial de addons diversos.</summary>
         <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
         <platform>all</platform>
+
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
     </extension>
 
 </addon>
@@ -81,8 +86,8 @@
             <platform>all</platform>
 
             <assets>
-                <icon>https://i.imgur.com/jefT4B6.jpg</icon>
-                <fanart>https://i.imgur.com/ybiMhKV.jpeg</fanart>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
@@ -121,8 +126,8 @@
             <platform>all</platform>
 
             <assets>
-                <icon>icon</icon>
-                <fanart>fanart</fanart>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
