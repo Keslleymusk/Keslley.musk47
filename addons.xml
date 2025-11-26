@@ -96,9 +96,6 @@
     <!-- Add-on BXL listado no repositório -->
     <!-- ================================================================ -->
 
-    <?xml version="1.0" encoding="UTF-8"?>
-<addons>
-
     <addon id="plugin.video.addon.bxl"
            name="[B][COLOR red]ADDON[/COLOR] [COLOR blue]BXL[/COLOR][/B]"
            version="4.0.0+matrix.1"
