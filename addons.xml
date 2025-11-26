@@ -6,24 +6,26 @@
     <!-- ================================================================ -->
 
     <addon id="repository.keslley.musk47"
-           name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
-           version="1.0.0"
-           provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
+       name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
+       version="1.0.0"
+       provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
-        <extension point="xbmc.addon.repository">
+    <extension point="xbmc.addon.repository">
+        <dir>
             <info compressed="false">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/zips/</datadir>
-        </extension>
+        </dir>
+    </extension>
 
-        <extension point="xbmc.addon.metadata">
-            <summary>Repositório oficial de addons diversos.</summary>
-            <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
-            <platform>all</platform>
-        </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositório oficial de addons diversos.</summary>
+        <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
+        <platform>all</platform>
+    </extension>
 
-    </addon>
-
+</addon>
+	
     <!-- ================================================================ -->
     <!-- Repositório Elementum -->
     <!-- ================================================================ -->
