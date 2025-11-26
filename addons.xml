@@ -119,8 +119,8 @@
             <platform>all</platform>
 
             <assets>
-                <icon>https://ia801706.us.archive.org/10/items/hashiras/super1.jpg</icon>
-                <fanart>https://ia801706.us.archive.org/10/items/hashiras/super10.jpg</fanart>
+                <icon>icon</icon>
+                <fanart>fanart</fanart>
                 <screenshot>resources/screenshots/home.png</screenshot>
                 <screenshot>resources/screenshots/movies.png</screenshot>
                 <screenshot>resources/screenshots/series.png</screenshot>
