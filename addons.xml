@@ -12,13 +12,6 @@
 
         <requires>
             <import addon="xbmc.python" version="2.19.0" />
-            <import addon="script.module.repositiry.keslley.musk47" />
-            <import addon="script.repository.keslley.musk47.artwork" />
-            <import addon="script.repository.keslley.musk47.metadata" />
-            <import addon="script.module.resolveurl" />
-            <import addon="script.module.requests" />
-            <import addon="script.module.openscrapers" />
-            <import addon="script.module.metahandler" version="1.0.0" />
         </requires>
 
         <extension point="xbmc.addon.repository">
