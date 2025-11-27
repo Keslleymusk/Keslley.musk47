@@ -12,6 +12,7 @@
 
     <requires>
 		<import addon="xbmc.python" version="2.19.0" />
+	    <import addon="script.exodusredux.artwork" />
 	</requires>
 
     <extension point="xbmc.addon.repository">
