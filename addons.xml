@@ -5,34 +5,46 @@
     <!-- Repositório Oficial Keslley Musk47 -->
     <!-- ================================================================ -->
 
+    <?xml version="1.0" encoding="UTF-8"?>
+<addons>
+
     <addon id="repository.keslley.musk47"
-       name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
-       version="1.0.0"
-       provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
+           name="[COLOR gold]Repositório keslley.musk47[COLOR red] OFICIAL[/COLOR]"
+           version="1.0.0"
+           provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
-    <requires>
-        <import addon="xbmc.python" version="2.19.0"/>
-    </requires>
+        <requires>
+            <import addon="xbmc.python" version="2.19.0" />
+            <import addon="script.module.exodusredux" />
+            <import addon="script.exodusredux.artwork" />
+            <import addon="script.exodusredux.metadata" />
+            <import addon="script.module.resolveurl" />
+            <import addon="script.module.requests" />
+            <import addon="script.module.openscrapers" />
+            <import addon="script.module.metahandler" version="1.0.0" />
+        </requires>
 
-    <extension point="xbmc.addon.repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/zips/</datadir>
-        </dir>
-    </extension>
+        <extension point="xbmc.addon.repository">
+            <dir>
+                <info compressed="false">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml</info>
+                <checksum>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/zips/</datadir>
+            </dir>
+        </extension>
 
-    <extension point="xbmc.addon.metadata">
-        <summary>Repositório oficial de addons diversos.</summary>
-        <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repositório oficial de addons diversos.</summary>
+            <description>Atualizações automáticas e instalações do addon AlphaTorrent.</description>
+            <platform>all</platform>
+            <assets>
+                <icon>icon.png</icon>
+                <fanart>fanart.jpg</fanart>
+            </assets>
+        </extension>
 
-</addon>
+    </addon>
+
+</addons>
 	
     <!-- ================================================================ -->
     <!-- Repositório Elementum -->
