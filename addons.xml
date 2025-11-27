@@ -11,7 +11,7 @@
            provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
         <requires>
-            <import addon="xbmc.python" version="3.0.0" />
+            <import addon="xbmc.python" version="2.19.0" />
             <import addon="script.module.keslley.musk47" />
             <import addon="script.keslley.musk47.artwork" />
             <import addon="script.keslley.musk47.metadata" />
