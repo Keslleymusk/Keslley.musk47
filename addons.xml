@@ -11,7 +11,7 @@
            provider-name="[COLOR gold]@keslley.Musk47[/COLOR]">
 
         <requires>
-            <import addon="xbmc.python" version="2.19.0" />
+            <import addon="xbmc.python" version="2.19.0"/>
         </requires>
 
         <extension point="xbmc.addon.repository">
