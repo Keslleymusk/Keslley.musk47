@@ -22,10 +22,38 @@
         <fanart></fanart>
     </item>
 
-    <!-- NOVO BLOCO ADICIONADO -->
+    <!-- TEXTO FIXO, DIVIDIDO EM LINHAS, SEM SCROLL -->
     <item>
-        <title>[COLOR white][B]ESTE SOFTWARE TEM COMO FINALIDADE DISPONIBILIZAR CONTEÚDOS PROVENIENTES DE STREAMS VIA PROTOCOLO TORRENT UTILIZANDO O MOTOR DE REPRODUÇÃO ELEMENTUM. TODO O MATERIAL EXIBIDO É AGREGADO A PARTIR DE METADADOS DISTRIBUÍDOS NA REDE DESCENTRALIZADA P2P.[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/desenvolvendor/desenvolvendor.png</thumbnail>
+        <title>[COLOR white]ESTE SOFTWARE TEM COMO FINALIDADE DISPONIBILIZAR CONTEÚDOS[/COLOR]</title>
+        <thumbnail></thumbnail>
+        <externallink></externallink>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]PROVENIENTES DE STREAMS VIA PROTOCOLO TORRENT,[/COLOR]</title>
+        <thumbnail></thumbnail>
+        <externallink></externallink>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]UTILIZANDO O MOTOR DE REPRODUÇÃO ELEMENTUM.[/COLOR]</title>
+        <thumbnail></thumbnail>
+        <externallink></externallink>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]TODO O MATERIAL EXIBIDO É OBTIDO A PARTIR DE METADADOS[/COLOR]</title>
+        <thumbnail></thumbnail>
+        <externallink></externallink>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]DISTRIBUÍDOS NA REDE DESCENTRALIZADA P2P.[/COLOR]</title>
+        <thumbnail></thumbnail>
         <externallink></externallink>
         <fanart></fanart>
     </item>
