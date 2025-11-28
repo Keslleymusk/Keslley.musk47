@@ -98,11 +98,10 @@
 
     </addon>
 
-
     <!-- ================================================================ -->
     <!-- Add-on BXL listado no repositório -->
     <!-- ================================================================ -->
-
+	
     <addon id="plugin.video.addon.bxl"
            name="[B][COLOR red]ADDON[/COLOR] [COLOR blue]BXL[/COLOR][/B]"
            version="4.0.0+matrix.1"
@@ -137,7 +136,8 @@
         </extension>
 
     </addon>
-    
+	
+   
     
     <!-- ================================================================ -->
     <!-- Add-on f4mTester listado no repositório -->
