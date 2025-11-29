@@ -170,18 +170,23 @@
 	
 
      <addon id="repository.kodiloucosbr"
-       name="[COLOR gold]Repositório KodiloucosBR [COLOR green]OFICIAL[/COLOR]" 
+       name="[COLOR gold]Repositório KodiloucosBR [COLOR green]OFICIAL[/COLOR]"
        version="1.0.2"
        provider-name="Marcão">
 
     <requires>
-        <import addon="xbmc.addon" version="21.0.0"/> <!-- Compatível com Kodi Omega -->
+        <import addon="xbmc.addon" version="21.0.0"/>
     </requires>
 
     <extension point="xbmc.addon.repository" name="KodiloucosBR Repositório">
-        <info compressed="false">http://seu-servidor/omega/addons.xml</info>
-        <checksum>http://seu-servidor/omega/addons.xml.md5</checksum>
-        <datadir>http://seu-servidor/omega/</datadir>
+
+        <!-- Diretório compatível com Kodi 21.x -->
+        <dir minversion="21.0.0" maxversion="21.9.9">
+            <info compressed="false">http://seu-servidor/omega/addons.xml</info>
+            <checksum>http://seu-servidor/omega/addons.xml.md5</checksum>
+            <datadir>http://seu-servidor/omega/</datadir>
+        </dir>
+
     </extension>
 
     <extension point="xbmc.addon.metadata">
@@ -193,6 +198,6 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
 
+</addon>
 </addons>
