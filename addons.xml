@@ -191,4 +191,40 @@
             </extension>
     </addon>
 
+
+
+	<!-- ================================================================ -->
+    <!-- Add-on teste listado no repositório -->
+    <!-- ================================================================ -->
+	
+	
+	<addon id="plugin.video.ADDON.TESTE" name="[B][COLOR red]ADDON[/COLOR][/B] [B][COLOR red]TESTE[/COLOR][/B]" version="1.0.0+matrix.1" provider-name="[B][COLOR gold]@keslley.musk47[/COLOR][/B]">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.simplejson"/>
+        <import addon="script.module.kodi-six"/>
+        <import addon="plugin.video.elementum" version="0.1.111"/> <!-- Versão pode variar dependendo do instalado. autor keslley musk 2024 -->
+    </requires>
+    
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">[COLOR white][B]fase de teste.[/B][/COLOR]</summary>
+        <description lang="en">[COLOR white][B]em desenvolvimento.[/B][/COLOR]</description>
+        <disclaimer lang="en">[COLOR gold][B]em desenvolvimento.[/B][/COLOR]</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/screenshots/home.png</screenshot>
+            <screenshot>resources/screenshots/movies.png</screenshot>
+            <screenshot>resources/screenshots/series.png</screenshot>
+        </assets>
+        <news>Últimas atualizações do add-on.</news>
+    </extension>
+</addon>
+
 </addons>
