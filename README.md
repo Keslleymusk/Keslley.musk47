@@ -7,14 +7,12 @@
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>     
   </channel>  
 
-  <!-- BLOCO NOVO INSERIDO -->  
   <channel>  
     <name>[COLOR red][B]INFORMAÇÕES DO DESENVOLVEDOR[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/desenvolvedor</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
-  <!-- FIM DO BLOCO NOVO -->  
 
   <channel>  
     <name>[COLOR white][B]FILMES[/B][/COLOR]</name>  
@@ -50,4 +48,14 @@
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/pedidos</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>
+
+  <!-- NOVA OPÇÃO INSERIDA NO FINAL -->
+  <channel>  
+    <name>[COLOR white][B]ESPECIAL: MARVEL CRONOLÓGICA[/B][/COLOR]</name>  
+    <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/marvel_cronologica</externallink>  
+    <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
+  </channel>
+  <!-- FIM -->
+
 </channels>
