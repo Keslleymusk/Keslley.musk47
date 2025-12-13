@@ -11,7 +11,7 @@
   <channel>  
     <name>[COLOR red][B]INFORMAÇÕES DO DESENVOLVEDOR[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/desenvolvedor</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/desenvolvedor</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
   <!-- FIM DO BLOCO NOVO -->  
@@ -26,28 +26,28 @@
   <channel>  
     <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/series</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/series</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
 
   <channel>  
     <name>[COLOR white][B]ANIMES[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/animes</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
 
   <channel>  
     <name>[COLOR white][B]ANIMAÇÕES[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/animacoes</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
 
   <channel>  
     <name>[COLOR white][B]PEDIDOS[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/pedidos</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/pedidos</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>
 </channels>
