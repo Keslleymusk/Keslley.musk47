@@ -18,5 +18,25 @@
         "magnet": "magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba"
       }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Thunderbolts*[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/eKD2p840nsRXLUR25ciVsNMJgOB.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/siKAbJlbGuVF3oyJmSE3BdFrjA4.jpg",
+    "info": "",
+    "links": [
+      {
+        "label": "[COLOR lime]4K[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:b1a6bf5eb43e5a4838003a24a2eb6896cff73999"
+      },
+      {
+        "label": "[COLOR lime]1080p[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:b203296d5d84491b4da9882dddc611d31881e30a"
+      },
+      {
+        "label": "[COLOR lime]1080p ALT[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261"
+      }
+    ]
   }
 ]
