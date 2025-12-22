@@ -193,5 +193,34 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c212a46d3612dc8d031d3520f5933cd3cc7fe3b9" },
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:77bf55650d2f9f15df19f9e39c078ecc229a928a" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Lobisomem[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/2HwuAarfIgOFMcZadzLZ6crxHLz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jjHqS4DAvUZlzaAIZmyK92lM7Z9.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma família é caçada por um lobisomem durante a lua cheia.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:d399de0b5e96fff560ab1332fdff72a6601c91c5" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Nosferatu[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fbkUfzmVzEBFSt6p7VigknREIJT.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/vzLPcMi0jhgDpamj4r4ZCIh90KU.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma releitura gótica do clássico vampírico ambientado no século XIX.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:fe9d2b692b7f6ab6ead5139367f883bf2ff90a85" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Substância[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/b0itXhS69X33BvLi7uWjUZQs9MB.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma atriz aceita um tratamento que promete juventude, mas cobra um preço aterrador.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]2160p[/COLOR]", "magnet": "magnet:?xt=urn:btih:508ad517d109885a6ab0d43cf568086a7d969dfc" },
+      { "label": "[COLOR lime]1080p FULLHD[/COLOR]", "magnet": "magnet:?xt=urn:btih:3385b59ea974f4d565981cb54557dbcab796aeca" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:036f46cd423312f538a07c5069a904af3ddfc485" }
+    ]
   }
 ]
