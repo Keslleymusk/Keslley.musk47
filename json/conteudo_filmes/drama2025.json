@@ -46,5 +46,15 @@
       { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:f03f925daf9a9860ca0c6550d8f29969bb9ea1b3" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d480421af836055e39cba2f57e6582a976455791" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Resgate em Alto Mar[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n74aeSburl1MhCNFlQxHxXp0NVn.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/di1kZNP4Q0BBrdyqhC8dhonuXB3.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Mergulhadores enfrentam o oceano em uma corrida desesperada para salvar um companheiro preso nas profundezas.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7588ce01155b26939cdff957e733e9362256274c" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:675a398d35e9b56af7188ab5b18f13ad0e190c2b" }
+    ]
   }
 ]
