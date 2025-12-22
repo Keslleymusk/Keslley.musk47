@@ -8,5 +8,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:2ec220ade7d92bde8d1f46948a8af37191f90477" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:955839dfb8deafadb7a0d3f7196b169cb6fd52b8" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Nas Terras Perdidas[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/op3qmNhvwEvyT7UFyPbIfQmKriB.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma feiticeira é enviada a terras amaldiçoadas para cumprir uma missão que desafia o bem, o mal e o próprio destino.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:3e0745a7aeb756395ec589e23f7bbbe54b9b2ada" }
+    ]
   }
 ]
