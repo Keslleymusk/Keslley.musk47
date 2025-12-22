@@ -26,5 +26,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c4a136a8f28f56420c3eb40c790447792e07490d" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:7917e12c17b738d6640183f2b4758fa04daaf2ee" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Luta de Classes[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/4tCvbUyx3C4APWjwv5yQyTXcWnq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/iaGRK1knqrISZvoRP7mNd7faQ2q.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um magnata da música enfrenta um dilema moral extremo em uma releitura moderna de Céu e Inferno, de Kurosawa.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:c303c97b5086b9b2b4a6e3581cc5f7b76ed67df4" }
+    ]
   }
 ]
