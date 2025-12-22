@@ -250,5 +250,35 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:637ffcdd2cf68061ad95697869571123d9ab5bf4" },
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:8c5cd9e2c43e9c3f312738f405f06e495742d921" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Novocaine: À Prova de Dor[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8eBj4WgFTsQOb8Moicf0I9sBgDE.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Nathan Caine nasce incapaz de sentir dor e descobre que sua condição pode ser sua maior arma ao tentar salvar um refém durante um assalto.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:4ba0c981deb4e08006379e104d53f15bcf3ccd3c" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:e341a212874191c875ec9f18f7b843f6c0cc530a" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]G20[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/tSee9gbGLfqwvjoWoCQgRZ4Sfky.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/949kuPE97AcQEMvsregckn2zF5H.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após um ataque à cúpula do G20, a presidente dos EUA precisa sobreviver e proteger líderes mundiais.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:174948ca3eabc67fed49559b70e3b8d185b76e1a" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:ba4b4ed8ef2aba9439d18b686bf8339a05dcd4b5" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Covil de Ladrões 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/q3Rgy4pQlPBou8ilYaVdHmjylyV.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Big Nick persegue uma máfia de diamantes na Europa em um novo jogo mortal de crime e traição.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1ab14dc8a74e09c59affa1fa226c1807eb3771be" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1db4695f38f2ab63c2bfdf83ce16a2dc079dda18" }
+    ]
   }
 ]
