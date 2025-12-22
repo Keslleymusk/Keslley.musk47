@@ -1,0 +1,22 @@
+[
+  {
+    "title": "[COLOR lime][B]7.[/B][/COLOR] [COLOR white][B]Um Dia Fora de Controle[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/auLOTlulof19GSPrNomyG7myfzN.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/1SgE1jMzyM09SsQmX26XxKiGUIh.jpg",
+    "info": "",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:d091f8ea4e269c08232a1fd1058a7a6da1d2370b" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:a3ed7ffb0c1456a00248b7e2215e3564aea196f1" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]4.[/B][/COLOR] [COLOR white][B]Plano em Família 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/aLgvLNWETZ2wtPzU3E7lavEpCJw.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/pHmWMsSrA8SvJPSOF64Dw7WMatr.jpg",
+    "info": "",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1b9b5511575da17a582c754a164f201811198988" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:42a871f3815d71a4f5c4723df8df3c66a170a850" }
+    ]
+  }
+]
