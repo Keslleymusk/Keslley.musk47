@@ -77,5 +77,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:152e29d905a583c2e4a5cd77cca657a25d59ad67" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:2cf91ae03a8ad76b14fb682d7f2f092449bd5be9" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]O Demônio do Alasca[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2b8tnSruPQnzEJSSsI0lEsY84KJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/rRwUU3RLV0JHNiRHBAHMS5AOrbF.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]No inverno do Alasca, mãe e filho transformam a própria casa em um cenário de rituais macabros e canibalismo.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:734cc0467932311323e39f1c82e98eef9dddadea" }
+    ]
   }
 ]
