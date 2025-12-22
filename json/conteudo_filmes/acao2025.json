@@ -56,5 +56,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:5835414ff5c890979919727b2c9d0dc76c539ce5" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:fb935928a55e39aaf6877c60264882ee9e3fb183" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Lendas dos Heróis do Condor: Os Valentes[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/rJBPn6EXVgecDgKc0C8nS6A7euI.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xGhTT6sGkHzhaxq57WIVlOXEtK.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Durante a invasão mongol liderada por Gengis Kan, guerreiros chineses unem forças para defender sua pátria.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:7b6bab32ff928233610f42455ac6c51b267f1fe7" }
+    ]
   }
 ]
