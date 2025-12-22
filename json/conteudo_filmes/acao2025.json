@@ -160,5 +160,16 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:4642c7eecd82731234f58613afd51fa344a3bb6f" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Bailarina: Do Universo de John Wick[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by5hjYJp3OJ8GW118kPeURp1rFo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8Hbktr7vKKfqhtBnYB9aFgicp0R.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma assassina treinada pela Ruska Roma busca vingança no universo expandido de John Wick.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:ba28ca80eefe12723d5ee417df0ab1e80de681e0" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7de63ec0cd7da312a3788a72293c976cb5eb17f4" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:b832e6fa2da9ec47e772a61f137d180c637f3472" }
+    ]
   }
 ]
