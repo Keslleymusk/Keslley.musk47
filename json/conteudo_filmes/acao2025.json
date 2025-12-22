@@ -181,5 +181,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c42aa8d0af9387adeabb15fe36994e6543169a97" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c410d777116bbf18955a2ec277f907eac484bf65" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]De Volta à Ação[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/m4gzzzeYRmrwasrBdJmjhBmjS3U.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bNlA8L2yQ7e9BKsL8AiB30nAiBc.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Ex-espiões da CIA são forçados a retornar ao mundo da espionagem após suas identidades serem reveladas.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:03102d5ce7969fece293566e72ecdd5b61dd4fa8" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:70d80b3cff4754be2deca1a9b5fa789b665cf60d" }
+    ]
   }
 ]
