@@ -94,5 +94,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:55625adab8257fa6609fe926fc7b8e18cff350dd" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:7443765232eb684478c423c39f5338e932a88f64" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Missão Resgate: Vingança[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/sPTeizmI8p40oEuvbIc2B3H5mg6.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/3qBiEl2dvhPmAdK9W5pttNEA4hg.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Durante uma viagem ao Nepal, um homem enfrenta mercenários para salvar passageiros de um ônibus turístico.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:72152542ce8366820cabd364b5041789aa4094e2" }
+    ]
   }
 ]
