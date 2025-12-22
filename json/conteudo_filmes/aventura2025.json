@@ -18,5 +18,21 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:626c0d969a7aad7e1d3897c14013decdad9d8871" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:fc944c4dd103e55adbc93a0bd1817571ac2c7d69" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Fonte da Juventude[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/hzuWNKN19wzVsjH1RtJXzjat5Tb.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/harJkDjpZbWxWqiP8tmwZRuQsjq.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um caçador de tesouros reúne uma equipe para uma aventura lendária em busca de um artefato capaz de mudar vidas, contando com a ajuda inesperada de sua irmã.[/COLOR]",
+    "links": [
+      {
+        "label": "[COLOR lime]1080p[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:b436469480f124c54fcc251c50861a860bb67dc0"
+      },
+      {
+        "label": "[COLOR lime]1080p ALT[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:0dae42102228dac26302961574ea51889c4db1d3"
+      }
+    ]
   }
 ]
