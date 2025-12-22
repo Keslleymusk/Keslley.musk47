@@ -36,5 +36,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:e65c8d29da5c3b56f1b83577152851d11392d27b" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:cb921c9cda6018ce36a5eb40bc528befe3668429" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Os Ratos: Uma História de The Witcher[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/kC3RUDlTk0KcOFWEPWlgtDxcTTz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/mMZJBKH4cecxO3zQlyRbekoaczA.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Para realizar um assalto ousado, um grupo de seis foras da lei precisa confiar uns nos outros — e em um bruxo decadente.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:dd99a462a3677ab9557aa2a92a3182ab58fe14f0" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a28fd1b7a36a220665302b8c589f0522e3d5b6ff" }
+    ]
   }
 ]
