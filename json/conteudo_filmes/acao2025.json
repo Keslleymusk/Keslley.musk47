@@ -46,5 +46,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:dd99a462a3677ab9557aa2a92a3182ab58fe14f0" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a28fd1b7a36a220665302b8c589f0522e3d5b6ff" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Caçadores do Fim do Mundo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/1ZhnVSuIPj0u1UBsrgkihYznbky.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após uma tempestade solar destruir a tecnologia do mundo, um ex-soldado é contratado para recuperar a Mona Lisa em meio ao caos.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:5835414ff5c890979919727b2c9d0dc76c539ce5" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:fb935928a55e39aaf6877c60264882ee9e3fb183" }
+    ]
   }
 ]
