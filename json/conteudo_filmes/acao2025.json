@@ -113,5 +113,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:dd9d72367be286d1530a580918fe077b6ae559aa" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:0ac51c06a9a16f58537c7e4b9a37473603065683" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Motorista de Fuga[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5y6tiGVEEcasVfIJKzT0VVTj9Yq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8jeDyvFQKgss36FbGAmGQVzPXlH.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma ex-motorista de fuga é forçada a reviver o passado para salvar a vida de alguém importante, enfrentando perigos intensos.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a1eb9908dc5f2a17eb54041e947352ff75736c01" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:6ed18fcf1370cdb8a72060a9df29d0288485d1e8" }
+    ]
   }
 ]
