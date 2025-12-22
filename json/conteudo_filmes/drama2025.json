@@ -56,5 +56,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7588ce01155b26939cdff957e733e9362256274c" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:675a398d35e9b56af7188ab5b18f13ad0e190c2b" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Tempo de Guerra[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 2.0[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rSEAmWjRWOpoZyV7Xh3VjZNsQT2.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zWxlRKJaKSlrezHPMYlobsXLz9o.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um retrato brutal da Guerra do Iraque, acompanhando soldados presos em um cenário de fogo cruzado e sobrevivência extrema.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c4a136a8f28f56420c3eb40c790447792e07490d" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:7917e12c17b738d6640183f2b4758fa04daaf2ee" }
+    ]
   }
 ]
