@@ -16,5 +16,15 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:aad8473e26c3b3a910b33f3ab719198fb4e75e31" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Entre Montanhas[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xI8fGpn41WJgfazS4Qoppx6ZUN1.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Dois agentes isolados precisam proteger o mundo de uma ameaça misteriosa escondida em um desfiladeiro secreto.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:cd3d04804f53de74bd5266edb66ff77633765667" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:3a90f7e63f244b723afa902634a10ac8ec6977e8" }
+    ]
   }
 ]
