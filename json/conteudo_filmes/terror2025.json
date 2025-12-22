@@ -106,5 +106,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:861b85b0bc5017bbab0386dc6ed7be322847f541" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:861b85b0bc5017bbab0386dc6ed7be322847f541" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]M3GAN 2.0[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qkwQ69TdgfEWZAtGexPsNle45uO.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2Lq5hmqOzV02H1jIoJcmgD4QIlg.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma IA militar fora de controle obriga sua criadora a ressuscitar M3GAN, agora mais letal do que nunca.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7b75d949e0e624e140f2c1cbe60d1466fc0c8a68" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:b44652ae25f24eedc1563f509cf849d8c2d857ba" }
+    ]
   }
 ]
