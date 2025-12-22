@@ -116,5 +116,15 @@
     "links": [
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:34470132611e3fba77625d40aea80702fc12ed2f" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]One Chicago – Crossover Event[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/bF8iYToYosGTn8FSe7M9QHInhVO.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fU0BmJTpLUlC46KaLm2Iu3AERvg.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma explosão em Chicago une bombeiros, médicos e policiais em um grande resgate.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:00289d4081f54107f696bd519f2a5315540207e4" }
+    ]
   }
 ]
