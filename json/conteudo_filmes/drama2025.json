@@ -66,5 +66,17 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c4a136a8f28f56420c3eb40c790447792e07490d" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:7917e12c17b738d6640183f2b4758fa04daaf2ee" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Creed: Nascido para Lutar[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53VTzu0nhbNYmIbqdDbFqobsLHt.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/cL8JzuQT6KaxsGFl4bRYSjdCGLi.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Filho do lendário Apollo Creed, Adonis entra no mundo do boxe profissional com a ajuda de Rocky Balboa, lutando por identidade e redenção.[/COLOR]",
+    "links": [
+      {
+        "label": "[COLOR lime]Único[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:3ea78e704e8e0f99939fb2d844d506063775140f"
+      }
+    ]
   }
 ]
