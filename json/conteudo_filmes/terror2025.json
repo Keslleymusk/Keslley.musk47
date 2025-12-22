@@ -147,5 +147,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:db840c8859f8fb945cbdadb4736a149f50f57b4c" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d3fe84dd283f49378fb5523ba6c3dc68b025a2d3" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Pecadores[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/a9kYEboW1TQaeilGYUAx1MO0DUp.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wHhXxZcmF29hZUoRsUOqmGdNNma.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Irmãos gêmeos retornam à cidade natal para recomeçar, mas encontram um mal ainda mais aterrador à espera.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:cac82af77b9caa3b5c8737fb4d34fb2c83eecad1" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c938c93e53a6064187697b67aac5797587c32381" }
+    ]
   }
 ]
