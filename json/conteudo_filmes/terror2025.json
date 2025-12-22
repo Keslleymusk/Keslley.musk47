@@ -57,5 +57,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:b883cafdd33a79f1fa1f1217f4e1b0aad1cc8ab1" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:0eaab370ab17529d419bc8cd382d3c9b6255348f" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]V/H/S/HALLOWEEN[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/8BCe07EGEQeuUowdD78RA8QdPcA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/qDEO8zdas65kNOLQtMKFlCQe33q.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Fitas de Halloween revelam histórias macabras onde doces ou travessuras viram uma luta sangrenta pela sobrevivência.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:313773dd09121b511d8f645b4f165d6f3d3f2683" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:422e0766edacb7b9f66002c2221afdfe8e8531b4" }
+    ]
   }
 ]
