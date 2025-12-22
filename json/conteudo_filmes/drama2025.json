@@ -35,5 +35,16 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:c303c97b5086b9b2b4a6e3581cc5f7b76ed67df4" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]F1 - O Filme[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/e47KfT2F3rbwjpVYrPKr4Yp85cO.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um piloto veterano retorna à Fórmula 1 para mentorar um jovem talento e levar sua equipe ao topo das corridas.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:67b88be7af9d1e08b4f5035872a3d2ae80d7b879" },
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:f03f925daf9a9860ca0c6550d8f29969bb9ea1b3" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d480421af836055e39cba2f57e6582a976455791" }
+    ]
   }
 ]
