@@ -212,5 +212,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:151e00e53bca91392f65954f8645375f906b77f5" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:919b8df3651b49675111471f46bd319d0c977cf8" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Código Alarum[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3wguDZosR8jc4mDG1jXfQKIPMXz.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wnAah2uCgt7VIO3yMpHU5Q1ubkK.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um casal de ex-espiões se vê no centro de uma conspiração internacional após abandonar a agência.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:f869946e84df6fafdfac47ce8e2dafcaf9430f66" }
+    ]
   }
 ]
