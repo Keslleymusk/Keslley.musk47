@@ -116,5 +116,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7b75d949e0e624e140f2c1cbe60d1466fc0c8a68" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:b44652ae25f24eedc1563f509cf849d8c2d857ba" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Extermínio: A Evolução[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/2K5LCXOqlbzRu7mWHbDnLdDQj6I.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Décadas após o surto do vírus da raiva, sobreviventes descobrem horrores ainda maiores no continente isolado.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:fb8a012bfe7624e67b5febc00241d071955d85a7" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:edf17b327c00b437b0175427f787e20a17eced98" }
+    ]
   }
 ]
