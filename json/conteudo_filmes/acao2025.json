@@ -142,5 +142,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:04bb6282484efc674f7510fc10f6db6cfbb7c14c" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:13edbf0759c839d8e57abfa1720a3af2d1af458f" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Um Homem sem Passado[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1lrPXPE6MFmjj2Anfv9aIDz9FnA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/tor8ZeI0NbLLtfMHb6dq9fhN34Z.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um homem com amnésia tenta descobrir quem realmente é enquanto se infiltra em uma perigosa organização criminosa.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:221049de0229533b0037289c1e4089c4f9cf040b" }
+    ]
   }
 ]
