@@ -96,5 +96,15 @@
       { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:5db53d9e3aafbeedad6464de4888fccabff8e780" },
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:9e2f93dc3eda62e8c082e8cb4b4bab6386d945fb" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Vingança de Popeye[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8kYGtiNVVjLSsJumGjqqYDkx9uA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/op1o4290PtQTi4Fl8VdbcgTZjKj.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Conselheiros reabrem um acampamento amaldiçoado e passam a ser caçados por uma figura implacável sedenta por vingança.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:861b85b0bc5017bbab0386dc6ed7be322847f541" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:861b85b0bc5017bbab0386dc6ed7be322847f541" }
+    ]
   }
 ]
