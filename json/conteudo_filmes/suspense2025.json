@@ -17,5 +17,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:060df53c8309351beb00505672f1fd04be6d2287" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:408db9de8da5c3830082408ed60c9bb5a6150ffb" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Código Preto[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/hYXgof4qOqBPkMSmz2HdGe5phjZ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um agente de inteligência precisa escolher entre a lealdade ao país ou ao casamento ao suspeitar da esposa.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:8d07fe0a24af8051f090f75fdef57947bd9b9e1e" }
+    ]
   }
 ]
