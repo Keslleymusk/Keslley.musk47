@@ -201,5 +201,16 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7e98d72f19668c029773052cab9373467afce2e2" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d476e9352a501eecfcf7efaab6597ba3c6035ea1" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]O Contador 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVpB7Y2tX9pbMzQW016qSWQ7OD5.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/abznrQ6EAxV7vZglaS5umsrTNOS.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Christian Wolff retorna para desvendar um assassinato ligado a uma rede de matadores profissionais altamente letais.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:cd16156e4db9cef470aaadd89f20fbc91f1983b5" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:151e00e53bca91392f65954f8645375f906b77f5" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:919b8df3651b49675111471f46bd319d0c977cf8" }
+    ]
   }
 ]
