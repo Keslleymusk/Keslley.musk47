@@ -136,5 +136,16 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:71f455ac7d5455382279131933f48ffde49be149" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c633c8d56c165d2b8a97b41baa6fb06a4ad159fe" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Premonição 6: Laços de Sangue[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/niTRdfNCT29PXU9YpPPuISrBIw7.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/bse2E5xgKcsL6w8h2efqpecvnxV.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma estudante tenta quebrar um ciclo mortal que ameaça destruir toda a sua família.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:ffc417e147da3ad9c24a08d8ba678a53d0267e1f" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:db840c8859f8fb945cbdadb4736a149f50f57b4c" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d3fe84dd283f49378fb5523ba6c3dc68b025a2d3" }
+    ]
   }
 ]
