@@ -171,5 +171,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7de63ec0cd7da312a3788a72293c976cb5eb17f4" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:b832e6fa2da9ec47e772a61f137d180c637f3472" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]The Old Guard 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qjVMsjV7UmSpi1aHA9Wtl1v8cxr.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fd9K7ZDfzRAcbLh8JlG4HIKbtuR.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Andy e seu grupo de imortais enfrentam uma nova ameaça capaz de destruir a humanidade.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c42aa8d0af9387adeabb15fe36994e6543169a97" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c410d777116bbf18955a2ec277f907eac484bf65" }
+    ]
   }
 ]
