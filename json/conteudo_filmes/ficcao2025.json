@@ -26,5 +26,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:cd3d04804f53de74bd5266edb66ff77633765667" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:3a90f7e63f244b723afa902634a10ac8ec6977e8" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Linha da Extinção[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8W6pH0sLPKSq8gM7qEnQiRSzWSN.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/kFuRs6RW2wxCg4ilYUIyEpPQA1Y.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Sobreviventes enfrentam criaturas monstruosas após o colapso da civilização.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:f75135d9f6f14b677a973b4179f391e3cc9bd464" }
+    ]
   }
 ]
