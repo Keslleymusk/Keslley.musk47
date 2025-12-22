@@ -191,5 +191,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:03102d5ce7969fece293566e72ecdd5b61dd4fa8" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:70d80b3cff4754be2deca1a9b5fa789b665cf60d" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]K.O.[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o0brhd2qdfFL3o7VxFDsUfUSaML.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2KDw9IrhT4zEOUAtyfoI5D22Wfm.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um ex-lutador precisa enfrentar uma gangue violenta para encontrar o filho desaparecido de um adversário que matou acidentalmente no passado.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7e98d72f19668c029773052cab9373467afce2e2" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:d476e9352a501eecfcf7efaab6597ba3c6035ea1" }
+    ]
   }
 ]
