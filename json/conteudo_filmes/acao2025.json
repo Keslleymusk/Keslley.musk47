@@ -280,5 +280,42 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1ab14dc8a74e09c59affa1fa226c1807eb3771be" },
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1db4695f38f2ab63c2bfdf83ce16a2dc079dda18" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Covil de Ladrões 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/lwU8lY65QqcLOTVlZvL4Dse1h69.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/q3Rgy4pQlPBou8ilYaVdHmjylyV.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Big Nick rastreia criminosos pela Europa enquanto uma grande troca de diamantes é planejada.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p FULLHD[/COLOR]", "magnet": "magnet:?xt=urn:btih:1ab14dc8a74e09c59affa1fa226c1807eb3771be" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:1db4695f38f2ab63c2bfdf83ce16a2dc079dda18" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Contra-Ataque[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ixKQ55OL3S4Lm0wuKU0s09cVGpX.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma missão de resgate coloca soldados de elite contra um grupo criminoso armado.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:403df409553f0fa0ada08875feaa0966d07635ab" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]O Atirador: A Última Batalha[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/vv4zpgw5jv6eY3NkmfomFQ9oZUP.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um atirador de elite lidera uma missão para impedir a liberação de uma arma mortal.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a63117fc3448a15825c7da09564356a31fbff4ba" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Ameaça no Ar[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/4LPIIwWiedwHeWgRXOjcBaL1tnv.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um voo pelo Alasca se transforma em um jogo mortal de desconfiança.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:7373df19c8ce19d242d342f6b2c47b23ec4e8fef" }
+    ]
   }
 ]
