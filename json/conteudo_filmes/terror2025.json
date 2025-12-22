@@ -28,5 +28,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:b24a8dd3e8043d30daf8d8799409f648aa29fdeb" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:3ad48a39e69faa40a8c093c442108343eebc3958" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Os Estranhos: Capítulo 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/bMrUruq2lT3b7xwC5y3vEidGYfZ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/wwpSqQYWQZhqjfHbZ761gT57tBQ.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Sobrevivente de um ataque brutal, Maya passa a ser novamente caçada em uma luta desesperada pela sobrevivência.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:f4cf67e9114c1218702d947731a5c7e8cc2f2f3f" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:017e1a819e8e8cb0accba48f591cd8ce05f3e5e4" }
+    ]
   }
 ]
