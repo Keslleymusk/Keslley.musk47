@@ -78,5 +78,25 @@
         "magnet": "magnet:?xt=urn:btih:3ea78e704e8e0f99939fb2d844d506063775140f"
       }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Último Alvo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4T5Mgq6uYK39cjInttIRgTdotq.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/ylNPjxOHp4eDEyA6JlaSbpBiARm.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um ex-boxeador tenta corrigir erros do passado enquanto o crime o puxa de volta.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:3354e53580cd15d8cadafd0d2fcabff4d30d2e8c" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c545422d336f846f210d6df875ddafc815cf2cff" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]The Alto Knights: Máfia e Poder[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/oMY3zmGB9Fp3U3mVND9zmtbDrCs.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]A rivalidade entre dois chefes da máfia redefine o crime em Nova York.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:43ea2e0158c34e6b0c724ae235010e19c7d09cd1" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:952007e65e137f65934ca7b89eda03e0c4e6dc8f" }
+    ]
   }
 ]
