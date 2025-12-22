@@ -98,5 +98,23 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:43ea2e0158c34e6b0c724ae235010e19c7d09cd1" },
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:952007e65e137f65934ca7b89eda03e0c4e6dc8f" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Redenção – A História Real de Bonhoeffer[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i4X0YFXLI1dvT6WOiIjLqVVpFoP.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/eYctF7eprl8ZMyltAZqMdssFUeh.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Dietrich Bonhoeffer arrisca tudo ao participar de um plano para assassinar Hitler.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:505fd00dbdefbd1390a38cfa3e320719cee08f11" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Conclave[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/wWn78TMMw8yOdr5sG0Yl9v4saoA.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/tkRDTu9hyWgaBSSzfkYDCZYd1kV.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Durante a escolha de um novo Papa, uma conspiração ameaça a Igreja Católica.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:34470132611e3fba77625d40aea80702fc12ed2f" }
+    ]
   }
 ]
