@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Diddy: Como Nasce um Bad Boy[/B][/COLOR] [COLOR yellow][B]- (2025)[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xprVo91kJSpIY5aAXvgNkOU5p62.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xd86d6wv4mUNhTmChcEuXNWHlcL.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Documentário sobre a ascensão de Diddy e as controvérsias recentes.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Documentário[/COLOR]", "magnet": "magnet:?xt=urn:btih:26e89ae3d5b201a9a5469c58f777e88b8111f104" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Atentado em Oklahoma: Terror nos EUA[/B][/COLOR] [COLOR yellow][B]- (2025)[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ml3rgtf0RD4VFcEZyyqwEFWOlfB.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/jQergBL4ulaAaHO4pWXE2BzkiEH.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Documentário sobre um dos maiores atentados terroristas da história dos EUA.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Documentário[/COLOR]", "magnet": "magnet:?xt=urn:btih:252ffe472f386949bc93bed15cd78979b220ad3c" }
+    ]
+  }
+]
