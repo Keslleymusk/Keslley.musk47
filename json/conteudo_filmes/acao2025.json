@@ -221,5 +221,34 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:f869946e84df6fafdfac47ce8e2dafcaf9430f66" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Resgate Implacável[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8T6N3NJd8p464uj6ydoPbWwprys.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/xBrx6O1RIhjtWmVthZIANuQz7Z2.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Ele quer viver uma vida simples e ser um bom pai, mas quando a filha de seu chefe desaparece, ele precisa voltar ao mundo das operações secretas.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a548f32b4d2c6d25e0b67b520d90577805e705a9" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Fight or Flight[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/keFxLsjjxysPmyPXmhSQvTBdmZg.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um mercenário aceita rastrear um alvo em um avião, mas precisa protegê-la quando ambos se tornam alvos.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:05110dd7aa9c6e121ecfebdf15afc71f289d70ae" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:6893bdf4f8f6ae496da66c6057f4eed0ab0f0cc8" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Caos e Destruição[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/8TcTdvMOZvZ6kDLEm0SZlkNm9Vu.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/65MVgDa6YjSdqzh7YOA04mYkioo.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um detetive ferido enfrenta o submundo do crime para resgatar o filho de um político.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:637ffcdd2cf68061ad95697869571123d9ab5bf4" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:8c5cd9e2c43e9c3f312738f405f06e495742d921" }
+    ]
   }
 ]
