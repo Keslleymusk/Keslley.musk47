@@ -103,5 +103,15 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:72152542ce8366820cabd364b5041789aa4094e2" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Linha de Fogo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/tR72QtCpWFyATitQhY4EmAgfEt4.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/z8tNyAAnGk2d1XmO1L4i34UmP19.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um ex-agente do FBI retorna ao submundo do crime para ajudar a família de um antigo parceiro.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:dd9d72367be286d1530a580918fe077b6ae559aa" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:0ac51c06a9a16f58537c7e4b9a37473603065683" }
+    ]
   }
 ]
