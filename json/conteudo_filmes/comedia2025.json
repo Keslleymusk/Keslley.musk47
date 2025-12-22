@@ -28,5 +28,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:5cd86e5331c071ea1d20740ee9d4f200af4d3c06" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:7482e647f2abe67ddd394bacb01ca8817a9c01dd" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Um Maluco no Golfe 2[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/tUnY14keO33H2QfOQEWRUsccgZo.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/6WlFTFswrSop08eD0SA6zWTyOEr.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Happy Gilmore retorna aos campos de golfe em uma nova sequência repleta de humor.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:71de2b5bcbe9db2accdd9fd44f835a673a6aeb7f" }
+    ]
   }
 ]
