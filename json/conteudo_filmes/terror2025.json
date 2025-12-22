@@ -126,5 +126,15 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:fb8a012bfe7624e67b5febc00241d071955d85a7" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:edf17b327c00b437b0175427f787e20a17eced98" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]O Macaco[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/2jME1L29XGE3T4f0zUHgpiKsPrV.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/25CY0FggI3YXy7AS4xIfVBcRaMq.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um brinquedo amaldiçoado retorna para assombrar dois irmãos anos após ter sido descartado.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:71f455ac7d5455382279131933f48ffde49be149" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c633c8d56c165d2b8a97b41baa6fb06a4ad159fe" }
+    ]
   }
 ]
