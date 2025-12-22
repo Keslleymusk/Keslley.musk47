@@ -53,7 +53,7 @@
   <channel>  
     <name>[COLOR white][B]DOCUMENTÁRIOS[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/json/documentarios.jdon</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/json/documentarios.json</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>
 
