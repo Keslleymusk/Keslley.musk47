@@ -123,5 +123,14 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:a1eb9908dc5f2a17eb54041e947352ff75736c01" },
       { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:6ed18fcf1370cdb8a72060a9df29d0288485d1e8" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]A Última Missão[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d6Dxr0Euzh8cGzkJ8h7unBX3A8l.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/2DD6LbVEtsvh8doEKjxQEdOaBbB.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Dois motoristas de caminhão blindado são emboscados por criminosos implacáveis em um assalto que foge totalmente do controle.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:0a57ebeaf30ece03be13752b5f5feb5a0cdea2dc" }
+    ]
   }
 ]
