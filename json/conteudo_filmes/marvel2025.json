@@ -1,42 +1,24 @@
 [
   {
-    "title": "[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]Quarteto Fantástico: Primeiros Passos[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Quarteto Fantástico: Primeiros Passos[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
     "poster": "https://www.themoviedb.org/t/p/w1280/hlWOAWRKSno6UxaE0IXDFVvmzTf.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
-    "info": "",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Forçados a equilibrar seus papéis como heróis com a força dos laços familiares, eles precisam defender a Terra do deus espacial Galactus e de sua arauta, a Surfista Prateada.[/COLOR]",
     "links": [
-      {
-        "label": "[COLOR lime]4K[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:b11330281758be3fb761b66ceedf1646f94306e5"
-      },
-      {
-        "label": "[COLOR lime]1080p[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:216ddeba88f50e58ad79bcad41499091db1f2eae"
-      },
-      {
-        "label": "[COLOR lime]720p[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba"
-      }
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:b11330281758be3fb761b66ceedf1646f94306e5" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:216ddeba88f50e58ad79bcad41499091db1f2eae" },
+      { "label": "[COLOR lime]720p[/COLOR]", "magnet": "magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba" }
     ]
   },
   {
-    "title": "[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Thunderbolts*[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Thunderbolts*[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
     "poster": "https://www.themoviedb.org/t/p/w1280/eKD2p840nsRXLUR25ciVsNMJgOB.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/siKAbJlbGuVF3oyJmSE3BdFrjA4.jpg",
-    "info": "",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Yelena integra uma equipe de ex-supervilões redimidos que enfrentam missões perigosas para o governo, lidando com dilemas morais, ação intensa e conflitos internos.[/COLOR]",
     "links": [
-      {
-        "label": "[COLOR lime]4K[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:b1a6bf5eb43e5a4838003a24a2eb6896cff73999"
-      },
-      {
-        "label": "[COLOR lime]1080p[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:b203296d5d84491b4da9882dddc611d31881e30a"
-      },
-      {
-        "label": "[COLOR lime]1080p ALT[/COLOR]",
-        "magnet": "magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261"
-      }
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:b203296d5d84491b4da9882dddc611d31881e30a" },
+      { "label": "[COLOR lime]4K[/COLOR]", "magnet": "magnet:?xt=urn:btih:b1a6bf5eb43e5a4838003a24a2eb6896cff73999" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261" }
     ]
   }
 ]
