@@ -157,5 +157,21 @@
       { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:cac82af77b9caa3b5c8737fb4d34fb2c83eecad1" },
       { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:c938c93e53a6064187697b67aac5797587c32381" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Until Dawn: Noite de Terror[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/mUSwXnXI2uZbE7ymwTK28S6QzD1.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/rqTZBKAsiFJ5PQ7lbXbSiHVxXsD.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Presos em um vale amaldiçoado, jovens são forçados a reviver a mesma noite de horror repetidamente enquanto um assassino se torna cada vez mais letal.[/COLOR]",
+    "links": [
+      {
+        "label": "[COLOR lime]4K[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:a21577aecee352f14e57fd5497f134318734d315"
+      },
+      {
+        "label": "[COLOR lime]1080p[/COLOR]",
+        "magnet": "magnet:?xt=urn:btih:b4d1979985b9800862b2d60d73b7329cce40f0af"
+      }
+    ]
   }
 ]
