@@ -173,5 +173,25 @@
         "magnet": "magnet:?xt=urn:btih:b4d1979985b9800862b2d60d73b7329cce40f0af"
       }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]O Macaco[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/rTrmXgAt6ZjbzfvGz6hbzkqMEW9.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/Ag6U63Qvd8OIgIwfJYjqyuWNPYC.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Irmãos descobrem um macaco de brinquedo amaldiçoado que desencadeia mortes terríveis.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c633c8d56c165d2b8a97b41baa6fb06a4ad159fe" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:71f455ac7d5455382279131933f48ffde49be149" }
+    ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Ash: Planeta Parasita[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/xwOfYbKIlcx2a6Lct5yPzBxgXPP.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/9KSGUPHZpqhqkRXE2eebu701ONU.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma sobrevivente desperta em um planeta hostil cercada por morte e desconfiança.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:c212a46d3612dc8d031d3520f5933cd3cc7fe3b9" },
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:77bf55650d2f9f15df19f9e39c078ecc229a928a" }
+    ]
   }
 ]
