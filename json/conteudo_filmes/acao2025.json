@@ -132,5 +132,15 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:0a57ebeaf30ece03be13752b5f5feb5a0cdea2dc" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Karatê Kid - Lendas[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c90Lt7OQGsOmhv6x4JoFdoHzw5l.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/zkFXNaPMU97zEE8P7EN7qbHqyUi.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após uma tragédia, um jovem prodígio do kung fu se muda para Nova York e une dois estilos de luta com a ajuda de Daniel LaRusso e do Sr. Han.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:04bb6282484efc674f7510fc10f6db6cfbb7c14c" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:13edbf0759c839d8e57abfa1720a3af2d1af458f" }
+    ]
   }
 ]
