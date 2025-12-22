@@ -47,5 +47,15 @@
     "links": [
       { "label": "[COLOR lime]Único[/COLOR]", "magnet": "magnet:?xt=urn:btih:7367d0b4b6b31c00c4a08f363b29ea5d93e28beb" }
     ]
+  },
+  {
+    "title": "[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Rosario[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]",
+    "poster": "https://www.themoviedb.org/t/p/w1280/qYBNoKmFID4gSKcnij1JSIdOsJ3.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/fGaCIyettrCi2sqJExS5xwsEQMq.jpg",
+    "info": "[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Ao retornar ao antigo apartamento da família, Rosario descobre uma maldição ancestral que ameaça sua vida e sua alma.[/COLOR]",
+    "links": [
+      { "label": "[COLOR lime]1080p[/COLOR]", "magnet": "magnet:?xt=urn:btih:b883cafdd33a79f1fa1f1217f4e1b0aad1cc8ab1" },
+      { "label": "[COLOR lime]1080p ALT[/COLOR]", "magnet": "magnet:?xt=urn:btih:0eaab370ab17529d419bc8cd382d3c9b6255348f" }
+    ]
   }
 ]
