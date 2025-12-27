@@ -304,4 +304,44 @@
     <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Big Nick persegue uma máfia de diamantes na Europa em um novo jogo mortal de crime e traição.[/COLOR]</info>
   </item>
 
+  <item>
+    <title>[COLOR lime][B]5.[/B][/COLOR] [COLOR white][B]Contra-Ataque[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:403df409553f0fa0ada08875feaa0966d07635ab$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iQsMy1xn8NG1VfVWFpEhhAsp4pi.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ixKQ55OL3S4Lm0wuKU0s09cVGpX.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma missão de resgate coloca soldados de elite contra um grupo criminoso armado.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]4.[/B][/COLOR] [COLOR white][B]O Atirador: A Última Batalha[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a63117fc3448a15825c7da09564356a31fbff4ba$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/vv4zpgw5jv6eY3NkmfomFQ9oZUP.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ybSA7fUbYHw8VeRiSJ7tgKJnYWZ.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um atirador de elite lidera uma missão para impedir a liberação de uma arma mortal.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]3.[/B][/COLOR] [COLOR white][B]Ameaça no Ar[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7373df19c8ce19d242d342f6b2c47b23ec4e8fef$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/4LPIIwWiedwHeWgRXOjcBaL1tnv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hwlyY7LJdEFbCPaGNXiskKKmJ5X.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um voo pelo Alasca se transforma em um jogo mortal de desconfiança.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]O Jogo do Assassino[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60FF00B28334FE774CFAC0C315EDFD4ACEE040EC$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ncX6qABALR4KgfiqhT1POME1UlR.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um assassino terminal contrata sua própria morte, mas precisa enfrentar outros matadores para salvar quem ama.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]A Hora do Silêncio[/B][/COLOR] [COLOR yellow][B]- (2024) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:521cd2e58b95aa68c0e217ed0371867ff1a3272f$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbfSnLfrh5yiIAs05eFANNJPKhj.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/3C3LTPEdkH0la3LMbCEgMXzMHlh.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um detetive surdo se envolve em uma trama de corrupção policial e violência.[/COLOR]</info>
+  </item>
+
 </items>
