@@ -2,7 +2,7 @@
 <items>
 
   <item>
-    <title> Dual Áudio 5.1 [/COLOR][/B]</title>
+    <title>[COLOR lime][B]39.[/B][/COLOR] [COLOR white][B]SISU: Estrada da Vingança[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fe32b90fdba5ccf28d2152c14bbe7600c624f9a</link>
     <thumbnail>https://image.tmdb.org/t/p/original/o8DhyfswTLGiIkAXPSGgMj586rG.jpg</thumbnail>
     <genre>[B][COLOR firebrick]ADDON BXL Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -11,7 +11,7 @@
   </item>
 
   <item>
-    <title> Dual Áudio 5.1 [/COLOR][/B]</title>
+    <title>[COLOR lime][B]38.[/B][/COLOR] [COLOR white][B]Risqué: A Vingança[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca1bf52ee83e3806eb2ccbd5f96e7cbf81615e6b</link>
     <thumbnail>https://image.tmdb.org/t/p/original/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg</thumbnail>
     <genre>[B][COLOR firebrick]ADDON BXL Tecnologia da Informação.[/COLOR][/B]</genre>
@@ -20,7 +20,7 @@
   </item>
 
   <item>
-    <title> Dual Áudio 5.1 (aguardando lançamento)[/COLOR][/B]</title>
+    <title>[COLOR lime][B]37.[/B][/COLOR] [COLOR white][B]Demon Slayer: Kimetsu no Yaiba – Castelo Infinito[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR][COLOR red][B](aguardando lançamento)[/B][/COLOR]</title>
     <thumbnail>https://image.tmdb.org/t/p/original/xi3xdCknXrwad6awtSbTQ0ldwfG.jpg</thumbnail>
     <genre>[B][COLOR firebrick]ADDON BXL Tecnologia da Informação.[/COLOR][/B]</genre>
     <fanart>https://image.tmdb.org/t/p/original/oRCJh5cizqJEbX9e3r3eLFS24FV.jpg</fanart>
@@ -28,4 +28,3 @@
   </item>
 
 </items>
-    
