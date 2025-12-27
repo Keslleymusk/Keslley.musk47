@@ -1,1 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]3.[/B][/COLOR] [COLOR white][B]Quarteto Fantástico: Primeiros Passos[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b11330281758be3fb761b66ceedf1646f94306e5$nome=[COLOR lime]4K[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:216ddeba88f50e58ad79bcad41499091db1f2eae$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba$nome=[COLOR lime]720p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/hlWOAWRKSno6UxaE0IXDFVvmzTf.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Forçados a equilibrar seus papéis como heróis com a força dos laços familiares, eles precisam defender a Terra do deus espacial Galactus e de sua arauta, a Surfista Prateada.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]Thunderbolts*[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b203296d5d84491b4da9882dddc611d31881e30a$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1a6bf5eb43e5a4838003a24a2eb6896cff73999$nome=[COLOR lime]4K[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261$nome=[COLOR lime]1080p ALT[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/eKD2p840nsRXLUR25ciVsNMJgOB.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/siKAbJlbGuVF3oyJmSE3BdFrjA4.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Yelena integra uma equipe de ex-supervilões redimidos que enfrentam missões perigosas para o governo, lidando com dilemas morais, ação intensa e conflitos internos.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Capitão América: Admirável Mundo Novo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fc9429ee1738bdaf61808700d4080c3c8368e2c$nome=[COLOR lime]4K[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:832dacdc16583e01c6ed9b3f4a7953f94982321d$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/yWOtVhuwJ6f5j9ELD2k3wKELEln.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Sam Wilson assume definitivamente o escudo do Capitão América enfrentando novas ameaças no UCM.[/COLOR]</info>
+  </item>
+
+</items>
