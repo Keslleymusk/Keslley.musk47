@@ -1,1 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/acao</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/terror</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/suspense</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/comedia</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/ficcao</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/marvel_comics</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/dc_comics</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/drama</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/romance</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/fantasia</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/aventura</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/faroeste</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/ABC/nacional</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
+    </item>
+
+</items>
