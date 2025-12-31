@@ -1,1 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/acao</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/terror</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/suspense</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/comedia</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/ficcao</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/marvel_comics</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/dc_comics</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/drama</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/romance</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/fantasia</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/aventura</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/faroeste</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Warner/nacional</externallink>
+        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
+    </item>
+
+</items>
