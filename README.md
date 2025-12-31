@@ -24,7 +24,7 @@
   <channel>  
     <name>[COLOR white][B]SÉRIES[/B][/COLOR]</name>  
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>  
-    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/series</externallink>  
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/series/opcoes</externallink>  
     <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>  
   </channel>  
 
