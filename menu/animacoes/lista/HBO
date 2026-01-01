@@ -4,77 +4,63 @@
     <item>
         <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/acao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/acao</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/terror</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/terror</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/suspense</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/suspense</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/comedia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/comedia</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/ficcao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/ficcao</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/drama</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/romance</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/drama</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/fantasia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/fantasia</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/aventura</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/faroeste</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/aventura</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/HBO/nacional</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/HBO/nacional</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
