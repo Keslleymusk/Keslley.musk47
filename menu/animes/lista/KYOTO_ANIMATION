@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/KYOTO_ANIMATION/acao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/b6JjuZXh60hrOpaG57ypFjOsrGK.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/KYOTO_ANIMATION/fantasia</externallink>
+        <fanart>https://archive.org/download/evergare/evergare.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/KYOTO_ANIMATION/drama</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/aUHovhqOrvXV6j8QlLBbLrFLDHf.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/KYOTO_ANIMATION/comedia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/qzq92nZl4Vmc4l5g7IRYsACIRZG.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/KYOTO_ANIMATION/terror</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lH1Acl5QJMYwD2enmHvsqopeEcw.jpg</fanart>
+    </item>
+
+</items>
