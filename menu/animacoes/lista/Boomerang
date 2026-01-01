@@ -1,1 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/acao</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/terror</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/suspense</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/comedia</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/ficcao</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/drama</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/fantasia</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/aventura</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Boomerang/nacional</externallink>
+        <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
+    </item>
+
+</items>
