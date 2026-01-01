@@ -75,7 +75,7 @@
         <title>[COLOR red]STUDIO GALLOP[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/STUDIO_GALLOP</externallink>
-        <fanart>https://ia600709.us.archive.org/24/items/studio-gallop_202601/Studio_Gallop.png</fanart>
+        <fanart>https://ia601708.us.archive.org/0/items/studio-gallop_20260101/Studio_Gallop.png</fanart>
     </item>
 
     <item>
@@ -83,6 +83,13 @@
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/TMS_ENTERTAINMENT</externallink>
         <fanart>https://ia601507.us.archive.org/14/items/tms-entertainment/TMS_ENTERTAINMENT.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]KYOTO ANIMATION[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/KYOTO_ANIMATION</externallink>
+        <fanart></fanart>
     </item>
 
 </items>
