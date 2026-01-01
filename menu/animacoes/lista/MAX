@@ -4,77 +4,63 @@
     <item>
         <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/acao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/acao</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/terror</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/terror</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/suspense</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/suspense</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/comedia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/comedia</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/ficcao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/ficcao</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/drama</externallink>
-        <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/romance</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/drama</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/fantasia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/fantasia</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/aventura</externallink>
-        <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/faroeste</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/aventura</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/MAX/nacional</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/MAX/nacional</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
