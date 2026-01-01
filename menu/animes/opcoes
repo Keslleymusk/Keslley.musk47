@@ -1,1 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR white]TOEI ANIMATION[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/TOEI_ANIMATION</externallink>
+        <fanart>https://ia601403.us.archive.org/10/items/toei-animation_202601/Toei_Animation.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]MAPPA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/MAPPA</externallink>
+        <fanart>https://ia600404.us.archive.org/27/items/mappa_202601/mappa.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]UFOTABLE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/UFOTABLE</externallink>
+        <fanart>https://archive.org/download/ufotable/ufotable.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]A-1 PICTURES[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/A-1_PICTURES</externallink>
+        <fanart>https://archive.org/download/a-1-pictures/A-1-Pictures.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]BONES[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/BONES</externallink>
+        <fanart>https://ia601607.us.archive.org/27/items/bones_20260101/Bones.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]MADHOUSE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/MADHOUSE</externallink>
+        <fanart>https://ia601205.us.archive.org/2/items/madhouse_20260101/Madhouse.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]WIT STUDIO[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/WIT_STUDIO</externallink>
+        <fanart>https://ia600308.us.archive.org/23/items/wit-studio_202601/Wit_Studio.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]CLOVERWORKS[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/CLOVERWORKS</externallink>
+        <fanart>https://ia601303.us.archive.org/19/items/clover-works/CloverWorks.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]PIERROT[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/PIERROT</externallink>
+        <fanart>https://ia601702.us.archive.org/5/items/pierrot_202601/Pierrot.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]J.C. STAFF[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/J.C._STAFF</externallink>
+        <fanart>https://ia601606.us.archive.org/29/items/j.-c.-staff/J.C.Staff.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]STUDIO GALLOP[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/STUDIO_GALLOP</externallink>
+        <fanart>https://ia600709.us.archive.org/24/items/studio-gallop_202601/Studio_Gallop.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR white]TMS ENTERTAINMENT[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animes/lista/TMS_ENTERTAINMENT</externallink>
+        <fanart></fanart>
+    </item>
+
+</items>
