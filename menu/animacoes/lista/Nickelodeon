@@ -1,1 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/acao</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/terror</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/suspense</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/comedia</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/ficcao</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/drama</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/fantasia</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/aventura</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Nickelodeon/nacional</externallink>
+        <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
+    </item>
+
+</items>
