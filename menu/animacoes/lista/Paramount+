@@ -4,77 +4,63 @@
     <item>
         <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/acao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/acao</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/terror</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/terror</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/suspense</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/suspense</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/comedia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/comedia</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/ficcao</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/ficcao</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/drama</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/romance</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/drama</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/fantasia</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/fantasia</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/aventura</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
-    </item>
-
-    <item>
-        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
-        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/faroeste</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/aventura</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Paramount+/nacional</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Paramount+/nacional</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
