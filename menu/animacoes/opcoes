@@ -4,161 +4,161 @@
     <item>
         <title>[COLOR white]HBO[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/opcoes/HBO</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/HBO</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/HBO%2B.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]MAX[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/max</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/MAX</externallink>
         <fanart>https://archive.org/download/maxxxxxx/maxxxxxx.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue]The WB[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/thewb</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/The_WB</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/the%20CW.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR gold]Warner[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/warner</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Warner</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Warner%2B.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]CN[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/cn</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/CN</externallink>
         <fanart>https://archive.org/download/cartoonnetwork_01/cartoonnetwork_01.png</fanart>
     </item>
 
     <item>
         <title>[COLOR lightblue]Boomerang[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/boomerang</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Boomerang</externallink>
         <fanart>https://ia600805.us.archive.org/34/items/boomerang_202512/Boomerang.png</fanart>
     </item>
 
     <item>
         <title>[COLOR orange]Nickelodeon[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/nickelodeon</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Nickelodeon</externallink>
         <fanart>https://ia601704.us.archive.org/22/items/nickelodeon_20251231/Nickelodeon.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR orange]Nicktoons[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/nicktoons</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Nicktoons</externallink>
         <fanart>https://ia801303.us.archive.org/19/items/nicktoons_202512/Nicktoons.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue]Disney Channel[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/disneychannel</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Disney_Channel</externallink>
         <fanart>https://ia601209.us.archive.org/30/items/disney-channel_202512/disney-channel.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue]Disney XD[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/disneyxd</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Disney_XD</externallink>
         <fanart>https://ia801603.us.archive.org/17/items/disney-xd_202512/disney-XD.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]Adult Swim[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/adultswim</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Adult_Swim</externallink>
         <fanart>https://ia600609.us.archive.org/18/items/adult-swim_202512/adult-swim.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR red]Netflix[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/netflix</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Netflix</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR lightblue]Prime Video[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/primevideo</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Prime_Video</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/primevideo.png</fanart>
     </item>
 
     <item>
         <title>[COLOR blue]Disney+[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/disneyplus</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Disney+</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Disney.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR green]Hulu[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/hulu</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Hulu</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/hulu.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR gold]FX[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/fx</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/FX</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/FX.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR yellow]FOX[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/fox</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/FOX</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/FOX.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]ABC[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/abc</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/ABC</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/ABC.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]CBS[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/cbs</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/CBS</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/CBS.png</fanart>
     </item>
 
     <item>
         <title>[COLOR blue]Paramount+[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/paramountplus</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Paramount+</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/Paramount.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR red]Showtime[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/showtime</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Showtime</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/showtime.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]Apple TV+[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/appletvplus</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/Apple_TV+</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/AppleTV.jpeg</fanart>
     </item>
 
     <item>
         <title>[COLOR white]BBC[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/bbc</externallink>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/animacoes/lista/BBC</externallink>
         <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/BBC.jpg</fanart>
     </item>
 
