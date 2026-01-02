@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+
+  <item>
+    <title>[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]C.I.C. - Central de Inteligência Cearense[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef12cb531e6224f296687d0e99895812663ca87b</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/jcKzreCQdH81A0XoIxU5Yzn92qV.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/1ITSaE1Y9XpycsLBnZFQD9fcjtn.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um agente secreto da Central de Inteligência Cearense é a última esperança do Brasil para recuperar os dados roubados de um projeto ultrassecreto que ameaça destruir as praias do país.[/COLOR]</info>
+  </item>
+
   <item>
     <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Chico Bento e a Goiabeira Maraviosa[/B][/COLOR] [COLOR yellow][B]- (2025) - 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5485b696cc27b7c60d58336e7565ef79c0a1e0b6$nome=[COLOR lime]1080p[/COLOR]</link>
