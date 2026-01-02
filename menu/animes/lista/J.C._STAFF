@@ -2,21 +2,21 @@
 <items>
 
     <item>
-        <title>[COLOR lightblue]AÇÃO[/COLOR]</title>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/JC_STAFF/acao</externallink>
         <fanart>https://image.tmdb.org/t/p/original/2yi3qA5NXNoaeT0oOBCoxqKSJEN.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR lightblue]FANTASIA[/COLOR]</title>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/JC_STAFF/fantasia</externallink>
         <fanart>https://image.tmdb.org/t/p/original/73uQJImy9J9w93zFEh8JtdQVOQR.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR lightblue]DRAMA[/COLOR]</title>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/JC_STAFF/drama</externallink>
         <fanart>https://image.tmdb.org/t/p/original/famxXokLCVI6oQ8u4Vsq5DovY1O.jpg</fanart>
@@ -30,7 +30,7 @@
     </item>
 
     <item>
-        <title>[COLOR lightblue]TERROR[/COLOR]</title>
+        <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/JC_STAFF/terror</externallink>
         <fanart>https://image.tmdb.org/t/p/original/o2GhUjnwiqCdt292256dpKRON44.jpg</fanart>
