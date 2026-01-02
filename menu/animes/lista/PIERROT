@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/PIERROT/acao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/zITP3O5oeTEKgfSNWUntyprBTW6.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/PIERROT/fantasia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/PIERROT/romance</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/k3KlMWPt8lJ5Pe48xuykeldCnI3.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/PIERROT/comedia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/aHqZkO3RuPM3n5hSf1l0K6cBKNu.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/PIERROT/terror</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/uQNMXlsim9jrsY9MdU6dqTlQbZD.jpg</fanart>
+    </item>
+
+</items>
