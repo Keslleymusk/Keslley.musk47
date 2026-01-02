@@ -1,1 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/DAVID_PRODUCTION/acao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/6V6RYfRmemMQtzFpWpDPA11zObg.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/DAVID_PRODUCTION/fantasia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/mLKN1dsimKPiXCZ48KED0X8a02t.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/DAVID_PRODUCTION/drama</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/fsnHf3qC4SJAMaYolZqmqvRaVw3.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/DAVID_PRODUCTION/comedia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/aOQL8UYduNxDePbynZROLZ1nfsf.jpg</fanart>
+    </item>
+
+</items>
