@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/A-1_PICTURES/acao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/8i0BcOIPO142nSmkBlLhijqIfRC.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/A-1_PICTURES/fantasia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/ccfSWNBjieb6jRTHgO7MUmQMU0l.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/A-1_PICTURES/drama</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/w89wTwK0xWiHJBbfNbTilxGBxYu.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/A-1_PICTURES/comedia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/y1nea0aZ2W7weK6ij6cEpVPPpvX.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/A-1_PICTURES/terror</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/Aoueuf0P1U9oqf4dgN6dqxl7hsE.jpg</fanart>
+    </item>
+
+</items>
