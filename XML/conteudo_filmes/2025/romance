@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 
+<item>
+    <title>[COLOR lime][B]3.[/B][/COLOR] [COLOR white][B]Siga Minha Voz[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ee777812e17438bab721aa6c02427ce3ee5d386</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/mncxqYlq2ze8q4YsF6cFOWKD006.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/ayWLrZkZFHp71vMf0PlrzhAYz9N.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Depois de uma crise de saúde que a manteve em casa por 76 dias seguidos, Klara passa seus dias ouvindo o programa de rádio “Siga Minha Voz”. Com o tempo, ela começa a se questionar se é possível se apaixonar por alguém que nunca encontrou, apenas pela voz, e se seus sentimentos pelo apresentador Kang são reais.[/COLOR]</info>
+  </item>
+
   <item>
     <title>[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]A Grande Viagem da Sua Vida[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4512a0728cd8ca39ad5fc6ae341a309995ef60bc</link>
