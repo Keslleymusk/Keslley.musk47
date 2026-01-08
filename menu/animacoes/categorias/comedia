@@ -1,11 +1,10 @@
-channels>
+<channels>
 <channel>
 <name>[COLOR blue]Rick & Morty[/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w1280/7EZcuL3GuiNvwn5RlKLaWazzekL.jpg</thumbnail> 
+<thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/comedia/Rick&morty</externallink>  
-<fanart>https://www.themoviedb.org/t/p/original/zHSdnkE3nABgdZWnLZDYXOTAWGH.jpg</fanart>
-<info>[B][COLOR red]SINOPSE:Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.[COLOR red][/COLOR][/B]</info> 
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES SERIES- [COLOR deeppink]|[/COLOR]</info>   
+<fanart>https://image.tmdb.org/t/p/original/vDPXV2VqzeALc7WVnOetzS1xQQ7.jpg</fanart>
+<info>[B][COLOR red]SINOPESE:
+O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas.[COLOR red][/COLOR][/B]</info>    
 </channel> 
 </channels>
