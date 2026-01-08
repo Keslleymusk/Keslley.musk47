@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <channels>
 
   <channel>
-    <name>[COLOR blue]Rick &amp; Morty[/COLOR]</name>
+    <name>[COLOR lime][B]0.[/B][/COLOR] [COLOR blue]Rick &amp; Morty[/COLOR]</name>
     <thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/comedia/Rick&amp;morty</externallink>
     <fanart>https://image.tmdb.org/t/p/original/vDPXV2VqzeALc7WVnOetzS1xQQ7.jpg</fanart>
