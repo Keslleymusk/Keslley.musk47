@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<items>
+<channel>
+  <name>Adult Swim • Comédia</name>
 
   <item>
     <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
-    <link>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/comedia/Rick_morty</link>
+    <link>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/comedia/Rick_morty.xml</link>
     <thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/vDPXV2VqzeALc7WVnOetzS1xQQ7.jpg</fanart>
     <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]O brilhante cientista beberrão Rick sequestra Morty, seu neto entediado, para viver aventuras insanas em outros mundos e dimensões alternativas.[/COLOR]</info>
   </item>
 
-</items>
+</channel>
