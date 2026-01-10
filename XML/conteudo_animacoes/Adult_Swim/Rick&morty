@@ -2,12 +2,11 @@
 <items>
 
   <item>
-    <title>[B][COLOR yellow]• [COLOR white]Rick & Morty[/COLOR] [COLOR yellow]- [1ª TEMPORADA][/COLOR][/B]</title>
-    <fanart>https://image.tmdb.org/t/p/original/vDPXV2VqzeALc7WVnOetzS1xQQ7.jpg</fanart>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- [1ª TEMPORADA] - Dual Áudio[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e373f01cf307ef073a910d8566212a3a638c9</link>
     <thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail>
-    <info>[B][COLOR red]SINOPSE:Rick, um cientista genial e alcoólatra, arrasta seu neto Morty para aventuras caóticas através de dimensões, realidades alternativas e universos paralelos, onde nada é sagrado e tudo pode dar errado.[/COLOR][/B]</info>
-    <title>[B][COLOR yellow]• [COLOR red]1 [COLOR white]Rick & Morty[/COLOR][/B]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73e373f01cf307ef073a910d8566212a3a638c9$nome=[COLOR lime]DUBLADO DUAL ÁUDIO MKV BLURAY 1080p[/COLOR]</link>
+    <fanart>https://image.tmdb.org/t/p/original/vDPXV2VqzeALc7WVnOetzS1xQQ7.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Rick, um cientista genial e alcoólatra, arrasta seu neto Morty para aventuras caóticas através de dimensões, realidades alternativas e universos paralelos, onde nada é sagrado e tudo pode dar errado.[/COLOR]</info>
   </item>
 
 </items>
