@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]O Aprendiz[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9a98cdc0ec0955f623d4aec7337f518d1b2630f</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/kSXqBw3QzKqSx8ZAeWL9ms1zw2n.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Nova York, 1970. O jovem Donald Trump busca escapar da sombra de seu pai e alcançar sucesso no mercado imobiliário. Em sua jornada, conhece Roy Cohn, um articulador político que o ensina a usar a manipulação da mídia como ferramenta para conquistar riqueza e poder.[/COLOR]</info>
+  </item>
+
+</items>
