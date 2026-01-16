@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
+
+  <item>
+    <title>[COLOR lime][B]4.[/B][/COLOR] [COLOR white][B]Boca de Fumo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:505b8f40962b6db0697f97e6faeb1e736c22e30a</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/aKr6jSFBrL1VFZIJ541boREu0a4.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/t98ZZtgdBC2yi7XBiT9nYBH6BrK.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Em El Paso, Texas, um agente disfarçado da Narcóticos e seu parceiro entram em um perigoso jogo de gato e rato com um grupo ousado de ladrões: seus próprios filhos adolescentes, que usam informações internas para roubar um cartel violento.[/COLOR]</info>
+  </item>
+
   <item>
     <title>[COLOR lime][B]3.[/B][/COLOR] [COLOR white][B]Lilo & Stitch[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:447ed33634d0bdb36d196ae59653da49848e1c33$nome=[COLOR lime]4K[/COLOR]</link>
