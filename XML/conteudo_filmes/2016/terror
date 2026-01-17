@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]A Autópsia[/B][/COLOR] [COLOR yellow][B]- (2016) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1265ce70851a5c7e0fffec057a695ed1db0a3a0f$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea213ce50dd3a43acea098f88f0d7e9a17c8b5bf$nome=[COLOR lime]720p[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/2eX4uF9vgSqSdZteP90be4ue9V0.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/pF9iaZNL41r0cxOHdWJTg8617Oz.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]O corpo de uma mulher não identificada é encontrado em uma pequena vila na Virgínia. A partir daí, eventos inexplicáveis passam a atormentar os donos do necrotério e os responsáveis por realizar a autópsia.[/COLOR]</info>
+  </item>
+
+</items>
