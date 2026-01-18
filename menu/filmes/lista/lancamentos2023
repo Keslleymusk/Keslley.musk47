@@ -1,104 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-<title>[COLOR silver][B]Velozes &amp; Furiosos 10 (2023) HDCAM[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F144BAD18DA96DC727F3D183A367CDA59280815F</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CWoalqAsRzXD9AFbByD1KnH40E.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/4t0oBFrJyweYPt0hocW6RUa0b6H.jpg</fanart>
-<info>Ao longo de muitas missões e contra probabilidades impossíveis, Dom Toretto e sua família foram mais espertos, mais nervosos e superaram todos os inimigos em seu caminho.</info>
-</item>
 
-<item>
-<title>[COLOR silver][B]Dando Sangue pelo Chefe (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3fda63e3285fdd20047ad6531a6c6ab2344042b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nnryxxmgS17IBKvu23Hpg1mimZU.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kfKW0HBObLAd4Lj27XX5QoLWmGe.jpg</fanart>
-<info>Renfield, o ajudante do chefe mais narcisista da história — Drácula — é forçado a encontrar vítimas para seu mestre, enfrentando ordens cada vez mais degradantes.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/acao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Super Mario Bros.: O Filme (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65AFC39A2ED9484691B648A556FBD5AF90F70F91</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i9XdxHsFrcqLkRWSF1coOHo4R39.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/iJQIbOPm81fPEGKt5BPuZmfnA54.jpg</fanart>
-<info>Mario e Luigi acabam no Reino dos Cogumelos, governado pela Princesa Peach e ameaçado pelo rei Bowser.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/terror</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Guardiões da Galáxia Vol. 3 (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1834199FFBFC739F4D20B12687C853589A0CAA9A</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttkTwdSx21AB1EDastR6xwMC2PT.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/A7JQ7MIV5fkIxceI5hizRIe6DRJ.jpg</fanart>
-<info>Peter Quill reúne sua equipe para defender o universo e proteger um dos Guardiões em sua missão mais arriscada.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/suspense</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Creed III (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3fda63e3285fdd20047ad6531a6c6ab2344042b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oVFBNoMhmO0gcLVkb6nLjixm80x.jpg</fanart>
-<info>Adonis Creed enfrenta um antigo amigo de infância que retorna decidido a provar seu valor no ringue.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/comedia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Dungeons &amp; Dragons: Honra Entre Rebeldes (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B63B37A4496428E51CA79B2A3AFCCD6D1419CC2</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85ivt7lJm3J5Mqybdh59m09eksV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XxqeuAkObpTC4UUK6QIYA0RcaR.jpg</fanart>
-<info>Um grupo de aventureiros enfrenta criaturas e perigos num mundo mágico repleto de dragões e mistérios.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/ficcao</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Tetris (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc75af7b4ce06ef29df159bff84bca746957509b</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg</fanart>
-<info>Em 1988, Henk Rogers descobre o jogo Tetris e mergulha numa rede perigosa de mentiras e corrupção soviética.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/marvel</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Shazam! Fúria dos Deuses (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78223495BDD7CBBDF288E83E1E6B89332877EE81</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qDivmsYL79dQZngyT3oKd4L9tA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1qDivmsYL79dQZngyT3oKd4L9tA.jpg</fanart>
-<info>O adolescente Billy Batson se transforma novamente em Shazam para enfrentar novas ameaças mitológicas.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/dc</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Fé nas Alturas (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5aeb1a467e878c6cf404b16b05466d27712a49c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iBKkwzr8n2iAQVL0gYjBVdhcUc5.jpg</fanart>
-<info>Doug White precisa pousar um avião sozinho após o piloto morrer inesperadamente em pleno voo.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/drama</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Homem-Formiga e a Vespa: Quantumania (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D835EF37F2B313261E5C8EA8E30EEE1AEDA516</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg</fanart>
-<info>Scott Lang e Hope Van Dyne são arrastados para o Reino Quântico e precisam enfrentar Kang, o Conquistador.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/romance</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Fúrias Femininas (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc18f734ba0b1679c9ebd19dc6b39a7d580bb214</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yRJIqsE3JnP92HOXpmch1EJQ0xq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yRJIqsE3JnP92HOXpmch1EJQ0xq.jpg</fanart>
-<info>Prequel de Fúria Feminina, onde três mulheres se unem para derrubar um grupo criminoso em Saigon.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/fantasia</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Batman: A Perdição Chegou a Gotham (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950a14de1bcc5e46d24fee6413aabdac7725ff0d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ejHdsATVNWDIhuTgIKXmenFqGTc.jpg</fanart>
-<info>Bruce Wayne retorna a Gotham para enfrentar ameaças sobrenaturais e um culto que planeja destruir a cidade.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/aventura</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
 
-<item>
-<title>[COLOR silver][B]Avatar: O Caminho da Água (2023)[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F70B6BD37AAC901C01FAA7E8A2FB56E668D228DF</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg</fanart>
-<info>A continuação da saga dos Na'vi mergulha em um novo conflito envolvendo água, família e sobrevivência.</info>
-</item>
+    <item>
+        <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/faroeste</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2023/nacional</externallink>
+        <fanart>https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg</fanart>
+    </item>
+
+</items>
