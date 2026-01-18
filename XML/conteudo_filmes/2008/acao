@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]007 - Quantum of Solace[/B][/COLOR] [COLOR yellow][B]- (2008) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49194d71c3aed645b1723d8e725982114621d40f$nome=[COLOR lime]4K[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ca6a4e165c033262360ab2f2e1d028abc6a1a11$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/dPu9wgexkw2f64ScWeoPjiShQrZ.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/9VtO57qdRakt4Z72Gwv0HLio15H.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após a morte de Vesper Lynd, James Bond transforma sua próxima missão em algo pessoal. A caçada aos responsáveis o leva ao empresário Dominic Greene, membro de uma organização secreta que planeja controlar um recurso natural vital, colocando Bond diante de traições e perigos extremos.[/COLOR]</info>
+  </item>
+
+</items>
