@@ -115,7 +115,7 @@
 
 <!-- ====== LANÇAMENTOS 2012 ====== -->
 <item>
-    <title>[COLOR yellow]LANÇAMENTOS[/COLOR] [COLOR white]2012[/COLOR]</title>
+    <title>[COLOR yellow]LANÇAMENTOS[/COLOR] [COLOR white]2012[/COLOR] [COLOR yellow]•[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <fanart>https://ia903406.us.archive.org/6/items/80_20251125/2012.png</fanart>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/filmes/lista/lancamentos2012</externallink>
@@ -378,6 +378,7 @@
 </item>
 
 </items>
+
 
 
 
