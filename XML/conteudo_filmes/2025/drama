@@ -6,7 +6,7 @@
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29e030e0c22061b28270e7c13d49ea39b981456b</link>
     <thumbnail>https://image.tmdb.org/t/p/original/jicP8HznlZNM1yoStgxIGgJieeo.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/vsKL7TTuO2eUKOS9L2RU9kFXbYE.jpg</fanart>
-    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma professora universitária, reconhecida por seu rigor acadêmico e dedicação aos alunos, vê sua vida desmoronar quando sua protegida faz uma grave acusação contra um colega do mesmo departamento.[/COLOR]</info>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma professora universitária vê sua vida desmoronar após uma grave acusação dentro do departamento.[/COLOR]</info>
   </item>
 
   <item>
@@ -15,7 +15,6 @@
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f127c613b6793dad079e62549b1c25c8cae45164$nome=[COLOR lime]4K LEGENDADO[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/original/oWFjidLwezQAXz8uRU0ujH8hTXy.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/1SgD8XMa6dDSBKbPU4TDe2cmfGK.jpg</fanart>
-    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]A história da vida de Charles Krantz é contada de forma inversa, começando com sua morte precoce aos 39 anos por um tumor cerebral e retrocedendo até sua infância.[/COLOR]</info>
   </item>
 
   <item>
@@ -81,16 +80,16 @@
 
   <item>
     <title>[COLOR lime][B]6.[/B][/COLOR] [COLOR white][B]Último Alvo[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3354e53580cd15d8cadafd0d2fcabff4d30d2e8c$nome=[COLOR lime]Opção 1[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c545422d336f846f210d6df875ddafc815cf2cff$nome=[COLOR lime]ALT[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3354e53580cd15d8cadafd0d2fcabff4d30d2e8c$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c545422d336f846f210d6df875ddafc815cf2cff$nome=[COLOR lime]1080p ALT[/COLOR]</link>
     <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c4T5Mgq6uYK39cjInttIRgTdotq.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/ylNPjxOHp4eDEyA6JlaSbpBiARm.jpg</fanart>
   </item>
 
   <item>
     <title>[COLOR lime][B]5.[/B][/COLOR] [COLOR white][B]The Alto Knights: Máfia e Poder[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43ea2e0158c34e6b0c724ae235010e19c7d09cd1$nome=[COLOR lime]Opção 1[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:952007e65e137f65934ca7b89eda03e0c4e6dc8f$nome=[COLOR lime]ALT[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43ea2e0158c34e6b0c724ae235010e19c7d09cd1$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:952007e65e137f65934ca7b89eda03e0c4e6dc8f$nome=[COLOR lime]1080p ALT[/COLOR]</link>
     <thumbnail>https://www.themoviedb.org/t/p/w1280/oMY3zmGB9Fp3U3mVND9zmtbDrCs.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg</fanart>
   </item>
@@ -111,8 +110,8 @@
 
   <item>
     <title>[COLOR lime][B]2.[/B][/COLOR] [COLOR white][B]One Chicago – Crossover Event[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49$nome=[COLOR lime]Opção 1[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00289d4081f54107f696bd519f2a5315540207e4$nome=[COLOR lime]ALT[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2a0901cb17672796d7dcd0bccadf4a3d34cccd49$nome=[COLOR lime]1080p[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00289d4081f54107f696bd519f2a5315540207e4$nome=[COLOR lime]1080p ALT[/COLOR]</link>
     <thumbnail>https://www.themoviedb.org/t/p/w1280/bF8iYToYosGTn8FSe7M9QHInhVO.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/fU0BmJTpLUlC46KaLm2Iu3AERvg.jpg</fanart>
   </item>
