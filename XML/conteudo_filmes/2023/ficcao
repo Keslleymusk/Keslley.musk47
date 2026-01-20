@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Resistência[/B][/COLOR] [COLOR yellow][B]- (2023) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862d6930b57b29d7101c136dbf3be6f4475788fc$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/4CjqJM2jnHDfDIy7O1jUVRdv8xy.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Em meio a uma futura guerra entre humanos e forças de inteligência artificial, Joshua, um ex-agente das forças especiais marcado pelo desaparecimento da esposa, é recrutado para caçar e eliminar o Criador, o arquiteto de uma IA avançada que desenvolveu uma arma capaz de pôr fim à guerra — e à própria humanidade.[/COLOR]</info>
+  </item>
+
+</items>
