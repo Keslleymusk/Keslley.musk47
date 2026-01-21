@@ -1,1 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Avatar: O Caminho Da Água[/B][/COLOR] [COLOR yellow][B]- (2022) - Dual Áudio 7.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61e10c8e238c96c8d19a80d853c90a574602323a$nome=[COLOR lime]1080p BluRay MKV[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73884e1bec0a286dd080c8d4664d05c67f730cf3$nome=[COLOR lime]1080p BluRay MKV (Sem Compactação)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18771276b7efad91da5352e92c71fb261131ffc$nome=[COLOR lime]4K (Sem Compactação)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d85195576382a6ccc21381e5415a73cca3b1504$nome=[COLOR lime]1080p MP4 (Legendado)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4be957e630bcb26858112f78dd85bdbce61fbf6$nome=[COLOR lime]1080p BluRay MKV (Sem Compactação Legendado)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:575de9574b65d2ddb815735f25db26355d7d6c81$nome=[COLOR lime]4K (Sem Compactação Legendado)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/9gZkGcvhyZmhpYDCeTCh0k6RGyh.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/8rpDcsfLJypbO6vREc0547VKqEv.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Doze anos após explorar Pandora e se unir aos Na’vi, Jake Sully formou uma família com Neytiri e passou a viver entre os clãs do planeta. Quando uma nova ameaça surge, a paz conquistada é colocada em risco, forçando-os a lutar para proteger seu lar e seu povo.[/COLOR]</info>
+  </item>
+
+</items>
