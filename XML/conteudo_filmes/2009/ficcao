@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Avatar[/B][/COLOR] [COLOR yellow][B]- (2009) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b936592f2efcfe82d720cbe1203f3dccfc4bbe32$nome=[COLOR lime]1080p BluRay MKV[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:849a9a8e157e720629c7ec0334be27e995e1e5f0$nome=[COLOR lime]1080p BluRay MP4 (Versão Estendida)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d306dfe7661cd617131cb0dfd6e631f290f821d$nome=[COLOR lime]4K (Sem Compactação)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/iNMP8uzV2Ing6ZCw0IICgEFVNfC.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/jVOFaJx0TecMlGHzbAc9sHDgOXg.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Mesmo sem os movimentos das pernas, o ex-fuzileiro naval Jake Sully é enviado ao distante planeta Pandora, onde humanos exploram recursos naturais. Lá, ele passa a controlar um corpo híbrido criado pelo programa Avatar e se envolve profundamente com os Na’vi, entrando em conflito entre sua missão e a defesa de um mundo que aprende a respeitar.[/COLOR]</info>
+  </item>
+
+</items>
