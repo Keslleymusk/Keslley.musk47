@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Oblivion[/B][/COLOR] [COLOR yellow][B]- (2013) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32a2761d1ee6f270aefe672b57257121565a4cdb$nome=[COLOR lime]4K (Sem Dublagem)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94d41304df90af311c3d89b0d5bc8226911956ab$nome=[COLOR lime]1080p BluRay (Sem Dublagem Sem Compactação)[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc62554a2a1dc30f5ade066f55cd5ba3cbc81f7c$nome=[COLOR lime]1080p BluRay[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/2dFtz5AgErxlTg5hnDhLSOJQf28.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/2kVt8oj1cSz4GAP0Hi8SESOiH0T.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após a Terra ser devastada pela raça Scav, Jack Harper trabalha reparando drones que extraem os últimos recursos do planeta antes da evacuação definitiva. Prestes a partir para uma colônia lunar, sua rotina muda drasticamente quando ele encontra uma espaçonave caída com uma mulher a bordo, colocando em xeque tudo o que ele acredita saber.[/COLOR]</info>
+  </item>
+
+</items>
