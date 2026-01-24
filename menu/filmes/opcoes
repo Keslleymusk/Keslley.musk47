@@ -107,7 +107,7 @@
 
 <!-- ====== LANÇAMENTOS 2013 ====== -->
 <item>
-    <title>[COLOR yellow]LANÇAMENTOS[/COLOR] [COLOR white]2013[/COLOR]</title>
+    <title>[COLOR yellow]LANÇAMENTOS[/COLOR] [COLOR white]2013[/COLOR] [COLOR yellow]•[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <fanart>https://dn721902.ca.archive.org/0/items/80_20251125/2013.png</fanart>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/filmes/lista/lancamentos2013</externallink>
@@ -378,6 +378,7 @@
 </item>
 
 </items>
+
 
 
 
