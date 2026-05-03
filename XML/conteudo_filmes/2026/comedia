@@ -1,1 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Mike & Nick & Nick & Alice[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5196a658e9e74e6d21106a5b5ad1ec364b2989$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/tGUc9O8GXu8b4hsa4FizlVuj4BW.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Uma comédia de ação estilizada voltada ao público adulto, que acompanha dois gângsteres e a mulher que ambos amam tentando sobreviver à noite mais perigosa de suas vidas. No meio do caos, surge um elemento inesperado: uma máquina do tempo que complica ainda mais a situação.[/COLOR]</info>
+  </item>
+
+</items>
