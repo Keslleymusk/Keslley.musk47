@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Missão Refúgio[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2becc5c6aacf8958fed0d60ba270d8fac9427ff9$nome=[COLOR lime]4K[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80767ff1a5428aae92a970909bde418cf8a931fb$nome=[COLOR lime]1080p[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/u6YE4rlEWOiYoqhPJuNvt5GHxgu.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um ex-assassino vive isolado em uma ilha remota até salvar uma jovem durante uma tempestade violenta. O resgate coloca ambos em perigo, forçando-o a abandonar o anonimato e confrontar seu passado para protegê-la enquanto enfrenta uma jornada marcada por perseguição, tensão e busca por redenção.[/COLOR]</info>
+  </item>
+
+</items>
