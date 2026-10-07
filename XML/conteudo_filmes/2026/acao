@@ -2,7 +2,15 @@
 <items>
 
   <item>
-    <title>[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Na Zona Cinzenta[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <title>[COLOR lime][B]9.[/B][/COLOR] [COLOR white][B]O Último Grande Assalto[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fe5e12b13766c22b80324d20b2364ce9b10521a</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/keU6EsXrkcc1uAEsEt1pI8keSsO.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/mVHyU4pnu9b2LWByPGGM0GGCA1v.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Manco Kapak, dono de um clube, é assaltado e passa a enfrentar ameaças dos cartéis. Seu sonho de vender o clube e se aposentar com a namorada está em risco. Um estranho finge estar interessado em comprar o estabelecimento, tornando tudo ainda mais complicado.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR lime][B]8.[/B][/COLOR] [COLOR white][B]Na Zona Cinzenta[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c733856858914b27a6cfac6f333206c0fef6cd54$nome=[COLOR lime]WEB-DL 2160p x265 4K HDR DUAL 5.1[/COLOR]</link>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db73540e0e19418844e7e40d756ec37deca9a857$nome=[COLOR lime]1080p.x265.FULL.HD.WEB-DL.DUAL.5.1[/COLOR]</link>
     <thumbnail>https://www.themoviedb.org/t/p/w1280/x8lAJde9fcXBFv5M2cOEv4YpIs5.jpg</thumbnail>
