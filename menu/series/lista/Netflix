@@ -2,80 +2,94 @@
 <items>
 
     <item>
-        <title>[COLOR blue][B]AÇÃO[/B][/COLOR]</title>
+        <title>[COLOR blue][B]AÇÃO[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/acao</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/acao</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]TERROR[/B][/COLOR]</title>
+        <title>[COLOR blue][B]TERROR[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/terror</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/terror</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR]</title>
+        <title>[COLOR blue][B]SUSPENSE[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/suspense</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/suspense</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR]</title>
+        <title>[COLOR blue][B]COMÉDIA[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/comedia</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/comedia</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR]</title>
+        <title>[COLOR blue][B]FICÇÃO[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/ficcao</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/ficcao</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]DRAMA[/B][/COLOR]</title>
+        <title>[COLOR blue][B]MARVEL COMICS[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/drama</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/marvel</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DC COMICS[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/dc</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR blue][B]DRAMA[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/drama</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]ROMANCE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/romance</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/romance</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FANTASIA[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/fantasia</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/fantasia</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]AVENTURA[/B][/COLOR]</title>
+        <title>[COLOR blue][B]AVENTURA[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/aventura</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/aventura</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
         <title>[COLOR blue][B]FAROESTE[/B][/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/faroeste</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/faroeste</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
     <item>
-        <title>[COLOR blue][B]NACIONAL[/B][/COLOR]</title>
+        <title>[COLOR blue][B]NACIONAL[/B][/COLOR] [COLOR yellow]•[/COLOR]</title>
         <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
-        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_series/Netflix/nacional</externallink>
-        <fanart>https://ia804507.us.archive.org/32/items/cbs_20251128/netflix-2.jpg</fanart>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_filmes/2026/nacional</externallink>
+        <fanart>https://archive.org/download/hashira18/hashira18.jpg</fanart>
     </item>
 
 </items>
