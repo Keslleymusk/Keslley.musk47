@@ -59,7 +59,7 @@
 
     <channel>
         <name>[COLOR white][B]ESPECIAL: MARVEL CRONOLÓGICA[/B][/COLOR]</name>
-        <thumbnail>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/icon.jpg</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/marvel_cronologica.jpg</thumbnail>
         <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/menu/marvel_cronologica</externallink>
         <fanart>https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg</fanart>
     </channel>
