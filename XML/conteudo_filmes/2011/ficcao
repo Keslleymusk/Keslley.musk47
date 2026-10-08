@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Sem Limites[/B][/COLOR] [COLOR yellow][B]- (2011) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec449604f294ad6ce6ed644e8dc57a212e936275$nome=[COLOR lime]1080p.x264.WEB-DL.DUAL.5.1[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e465f4e90c484812b27fde2c11c7791be86814f$nome=[COLOR lime]720p.WEB-DL.DUAL.5.1[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w1280/poiTgNzPbT3ZuS4QnmrLNv2M6rD.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/vQGo5VjJcHxpzIa8lMBFzpAth1w.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Há anos o escritor Eddie Morra está sofrendo com um bloqueio criativo. Quando um velho amigo lhe apresenta um remédio revolucionário, sua vida muda instantaneamente. Com o remédio, Eddie passa a usar 100% do seu cérebro. Ele consegue lembrar de tudo que já leu, ouviu ou viu em toda sua vida. Aprende línguas, faz cálculos, consegue ler e escrever muito rapidamente. Porém, para que tudo isso ocorra, ele precisa tomar o remédio todos os dias. Em poucas semanas, Eddie vira o rei de Wall Street, chamando a atenção do megaempresário Carl Van Loon, que o contrata para fechar um dos maiores negócios da história. Tendo se tornado uma pessoa perfeita, ele agora passará a viver sem limites.[/COLOR]</info>
+  </item>
+
+</items>
