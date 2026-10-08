@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+    <item>
+        <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/studio_gallop/acao</externallink>
+        <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/samuraiX.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/studio_gallop/fantasia</externallink>
+        <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/YuGiOh.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/studio_gallop/drama</externallink>
+        <fanart></fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/studio_gallop/comedia</externallink>
+        <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/comedia.png</fanart>
+    </item>
+
+    <item>
+        <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
+        <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
+        <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/studio_gallop/terror</externallink>
+        <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/terror.png</fanart>
+    </item>
+
+</items>
