@@ -141,9 +141,8 @@
     <!-- ================================================================ -->
     <!-- Add-on kodilocosbr listado no repositório -->
     <!-- ================================================================ -->
-	
 
-     <?xml version="1.0" encoding="UTF-8"?>
+		
 <addon id="repository.kodiloucosbr"
        name="[COLOR gold]Repositório KodiloucosBR [COLOR green]OFICIAL[/COLOR]"
        version="1.0.1"
