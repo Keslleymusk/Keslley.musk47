@@ -143,16 +143,24 @@
     <!-- ================================================================ -->
 	
 
-     <addon id="repository.kodiloucosbr"
+     <?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.kodiloucosbr"
        name="[COLOR gold]Repositório KodiloucosBR [COLOR green]OFICIAL[/COLOR]"
        version="1.0.1"
        provider-name="Marcão">
 
     <extension point="xbmc.addon.repository"
                name="[COLOR white]KodiloucosBR [COLOR gold]Repositorio[/COLOR]">
-        <info>https://SEU_SERVIDOR/repositorio/addons.xml</info>
-        <checksum>https://SEU_SERVIDOR/repositorio/addons.xml.md5</checksum>
-        <datadir>https://SEU_SERVIDOR/repositorio/</datadir>
+
+        <!-- Correção: as tags info, checksum e datadir devem ficar dentro de dir.
+             Isso permite ao Kodi identificar corretamente a estrutura do repositório. -->
+
+        <dir>
+            <info>https://SEU_SERVIDOR/repositorio/addons.xml</info>
+            <checksum>https://SEU_SERVIDOR/repositorio/addons.xml.md5</checksum>
+            <datadir>https://SEU_SERVIDOR/repositorio/</datadir>
+        </dir>
+
     </extension>
 
     <extension point="xbmc.addon.metadata">
@@ -166,7 +174,6 @@
     </extension>
 
 </addon>
-
 
 
 	<!-- ================================================================ -->
