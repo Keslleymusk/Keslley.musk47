@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?><items><item>
-<items>
-
-<item>
     <title>[COLOR lightblue]AÇÃO E AVENTURA[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/STUDIO_4C/acao</externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/berserk.jpg</fanart>
 </item>
 
 <item>
     <title>[COLOR lightblue]FANTASIA E SOBRENATURAL[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/STUDIO_4C/fantasia</externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/FirstSquad.png</fanart>
 </item>
 
 <item>
     <title>[COLOR lightblue]DRAMA E ROMANCE[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/STUDIO_4C/drama</externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/phoenix-eden17.jpg</fanart>
 </item>
 
 <item>
     <title>[COLOR lightblue]COMÉDIA[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/STUDIO_4C/comedia</externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/Detroit.jpg</fanart>
 </item>
 
 <item>
     <title>[COLOR lightblue]TERROR E SUSPENSE[/COLOR]</title>
     <thumbnail>https://archive.org/download/tag.I.A01/tag.I.A01.png</thumbnail>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animes/STUDIO_4C/terror</externallink>
-    <fanart></fanart>
+    <fanart>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/imagens/animes/bruxas.jpg</fanart>
 </item>
 
 </items>
