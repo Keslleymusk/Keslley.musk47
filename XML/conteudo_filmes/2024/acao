@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
 <item>
     <title>[COLOR lime][B]23.[/B][/COLOR] [COLOR white][B]O Promotor[/B][/COLOR] [COLOR yellow][B]- (2025) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f649dea4fe53aae0957d17deedcb40323ef2391b</link>
@@ -5,3 +8,5 @@
     <fanart>https://image.tmdb.org/t/p/original/1BtrPhMzTIb6THj46cFbznrRoOv.jpg</fanart>
     <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Um jovem pobre é injustamente acusado de tráfico de drogas após ser enganado. Um ex-promotor decide investigar o caso e acaba descobrindo um esquema envolvendo advogados corruptos.[/COLOR]</info>
   </item>
+
+</items>
