@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
 
+
   <item>
-    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2013) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <title>[COLOR blue][B]*SÉRIE:[/B][/COLOR] [COLOR white][B]Presidente Curtis[/B][/COLOR] [COLOR yellow][B]- (2026) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/PresidenteCurtis</externallink>
+    <thumbnail>https://image.tmdb.org/t/p/original/bslvJffCHQSJxUKuEEzjkYPNrTn.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]O presidente Curtis e sua equipe enfrentam crises que Rick Sanchez ignoraria, da diplomacia interdimensional a fenômenos paranormais.[/COLOR]</info>
+  </item>
+
+  <item>
+    <title>[COLOR blue][B]*SÉRIE:[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2013) - Dual Áudio 5.1[/B][/COLOR]</title>
     <externallink>https://raw.githubusercontent.com/Keslleymusk/Keslley.musk47/main/XML/conteudo_animacoes/Adult_Swim/Rick&morty</externallink>
     <thumbnail>https://image.tmdb.org/t/p/original/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg</thumbnail>
     <fanart>https://ia601501.us.archive.org/31/items/rickmorty-3/Rick%26morty3.jpg</fanart>
