@@ -1,7 +1,12 @@
-  <item>
-    <title>[COLOR lime][B]0.[/B][/COLOR] [COLOR white][B]Rápida e Mortal[/B][/COLOR] [COLOR yellow][B]- (1995) - Dual Áudio 5.1[/B][/COLOR]</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+
+<item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Rápida e Mortal[/B][/COLOR] [COLOR yellow][B]- (1995) - Dual Áudio 5.1[/B][/COLOR]</title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c782016e0f9cf0293e3ce7ada5db569e048eefcb</link>
     <thumbnail>https://image.tmdb.org/t/p/original/lBQmZPxS6y9U4j6cs78DUd8QuYQ.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/wwdzmWC1Ra9SqPBrtCyRNJ4oYUO.jpg</fanart>
     <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]O vilarejo de Redemption recebe, todos os anos, um concurso de pistoleiros organizado por John Herod. Ellen vai ao evento disposta a enfrentar Herod, que destruiu sua vida no passado. Assim que chega à vila, ela conhece o pastor Cort, que decidiu nunca mais apontar uma arma para ninguém. Porém, Herod sabe que Cort é um dos principais pistoleiros da região e tenta convencê-lo a também participar do concurso.[/COLOR]</info>
   </item>
+
+</items>
