@@ -49,13 +49,24 @@
     <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso, que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo seu jovem neto Morty em aventuras perigosas e estranhas pelo espaço e por universos alternativos. Essas experiências se somam à vida familiar já instável de Morty, causando-lhe problemas em casa e na escola.[/COLOR]</info>
   </item>
 
-  <item>
-    <title>[COLOR lime][B]•[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2022) - [6ª TEMPORADA] - Dual Áudio 5.1[/B][/COLOR]</title>
-    <link>plugin://plugin.video.elementum/play?uri=</link>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Após os eventos da temporada anterior, a família Smith precisa lidar com as consequências de suas viagens dimensionais, enquanto Rick enfrenta velhos inimigos e busca respostas sobre seu passado.[/COLOR]</info>
-  </item>
+
+    <item>
+        <title>[COLOR lime][B]•[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2022) - 6ª TEMPORADA - Dual Áudio 5.1[/B][/COLOR]</title>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09aadf170a6caa0c35dbe373a081160baaf36f3$nome=[COLOR lime]Rick & Morty S06E01[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a57fa31ff68e5d34fb1373f5262ba5ddfb82430$nome=[COLOR lime]Rick & Morty S06E02[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04502d352f266f861456b9d32cbf83b76cbf4f57$nome=[COLOR lime]Rick & Morty S06E03[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da268668e99edb4c653a2d52708acad6d4e72dc0$nome=[COLOR lime]Rick & Morty S06E04[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9f5562a433abe0aa5cc47e0bf91b6a391df9145$nome=[COLOR lime]Rick & Morty S06E05[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b14f6335461460f797295ecb80016b4cf266fbd$nome=[COLOR lime]Rick & Morty S06E06[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:864f378b3343080bd3a9c20042bb3e35c618d66c$nome=[COLOR lime]Rick & Morty S06E07[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fbac1b6f63097426af3a0c89fcc034d1f1d626e$nome=[COLOR lime]Rick & Morty S06E08[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b30a6b0347b9014f3756fecd21abb6005e87359b$nome=[COLOR lime]Rick & Morty S06E09[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823227cec61925f6c78129c97b6181108166bfb6$nome=[COLOR lime]Rick & Morty S06E10[/COLOR]</link>
+        <thumbnail>https://image.tmdb.org/t/p/original/vqO8dvubgg8qDRayid546Uv2PEW.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/d3FSuQC3SKLnVcb4zbyeqYUSM6X.jpg</fanart>
+        <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]Rick and Morty é uma série animada que acompanha as aventuras e descobertas de um supercientista e seu neto não muito brilhante. Completamente irresponsável, Rick não é um avô amoroso e gentil. Muito pelo contrário, ele usa o neto, Morty, como cobaia em seus experimentos e não leva em consideração a segurança do jovem em suas aventuras intergalácticas. Mas, mesmo com diversos desentendimentos, os dois se divertem descobrindo lugares incríveis e criaturas assustadoras através de universos e galáxias desconhecidas. Além dos dois, a série também acompanha os outros membros da família: Beth, mãe de Morty e filha de Rick, com quem ele tem uma relação complicada; Jerry, o genro de Rick, por quem ele sente desprezo; e Summer, irmã mais velha de Morty, que também acompanha o irmão e o avô em suas aventuras. Enquanto encaram perigos inimagináveis, a família Smith acaba descobrindo muito sobre uns aos outros.[/COLOR]</info>
+    </item>
+
 
   <item>
     <title>[COLOR lime][B]•[/B][/COLOR] [COLOR white][B]Rick & Morty[/B][/COLOR] [COLOR yellow][B]- (2023) - [7ª TEMPORADA] - Dual Áudio 5.1[/B][/COLOR]</title>
