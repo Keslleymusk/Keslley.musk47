@@ -1,1 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
 
+  <item>
+    <title>[COLOR lime][B]1.[/B][/COLOR] [COLOR white][B]Matrix Reloaded[/B][/COLOR] [COLOR yellow][B]- (2003) - Dual Áudio 5.1[/B][/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FACB3BBA6DCA4E3D9CD38667F969A8F066E625A$nome=[COLOR lime]Matrix Reloaded (2003) Bluray 1080p Dual Audio .OPEN.MATTE.IMAX.[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dbb83021c10fd6919e134268e17291ed2455c9d$nome=[COLOR lime]Matrix Reloaded (2003) Bluray 1080p Dual Audio[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172863ab4080c8c2538da526b2e1d37c4f4d129f$nome=[COLOR lime]Matrix Reloaded (2003) Bluray 1080p Dual Audio[/COLOR]</link>
+    <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail>
+    <fanart>https://www.themoviedb.org/t/p/original/YfMEwVRe1c5rhFYmL2P8153T8x.jpg</fanart>
+    <info>[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR red]As máquinas estão a preparar o embate decisivo contra os humanos rebeldes e preparam-se para a invasão de Zion. Para muitos, a última esperança é a defesa da cidade até ao último homem. Porém, para Trinity, Morpheus e outros, é em Neo que reside a derradeira oportunidade para a raça humana. Assim, Neo e os tripulantes da nave de Morpheus partem em busca do "Chaveiro", um programa antigo que pode facilitar-lhes o acesso ao centro da Matrix, mas que está prisioneiro de outro programa, o francês Merovingian.[/COLOR]</info>
+  </item>
+
+</items>
